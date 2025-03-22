@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Java",
+    "img": "/img/icons/java.png",
+    "perchant": "92%"
+  },
+  {
+    "name": "Spring Boot",
+    "img": "/img/icons/spring-boot.png",
+    "perchant": "92%"
+  },
+  {
+    "name": "Python",
+    "img": "/img/icons/python.png",
+    "perchant": "99%"
+  },
+  {
+    "name": "Django",
+    "img": "/img/icons/django.png",
+    "perchant": "99%"
+  },
+  {
+    "name": "C++",
+    "img": "/img/icons/c++.png",
+    "perchant": "89%"
+  },
+  {
+    "name": "TypeScript",
+    "img": "/img/icons/typescript.png",
+    "perchant": "85%"
+  },
+  {
+    "name": "JavaScript",
+    "img": "/img/icons/js.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "React/React Native",
+    "img": "/img/icons/react.png",
+    "perchant": "89%"
+  },
+  {
+    "name": "NextJS",
+    "img": "/img/icons/nextjs.png",
+    "perchant": "89%"
+  },
+  {
+    "name": "MySQL",
+    "img": "/img/icons/mysql.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "PostgreSQL",
+    "img": "/img/icons/postgresql.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "MongoDB",
+    "img": "/img/icons/mongodb.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "NodeJS",
+    "img": "/img/icons/nodejs.png",
+    "perchant": "93%"
+  },
+  {
+    "name": "2x AWS (AI & Cloud Practitioner)",
+    "img": "/img/icons/aws.png",
+    "perchant": "80%"
+  },
+  {
+    "name": "Git/GitHub",
+    "img": "/img/icons/git-github.png",
+    "perchant": "85%"
+  },
+  {
+    "name": "WordPress",
+    "img": "/img/icons/wp.png",
+    "perchant": "99%"
+  },
+  {
+    "name": "Docker",
+    "img": "/img/icons/docker.png",
+    "perchant": "89%"
+  }
+]

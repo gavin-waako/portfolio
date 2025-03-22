@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Professional Work Experience",
+    "iconName": "flaticon-recommendation",
+    "resumeItems": [
+      {
+        "date": "November 2021 - December 2024",
+        "title": "Web/Mobile Software Developer",
+        "desc": "Aerodyne Tech (PTY) Ltd., South Africa"
+      },
+      {
+        "date": "January 2021 - October 2021",
+        "title": "Online English Tutor",
+        "desc": "Aerodyne Tech (PTY) Ltd., South Africa"
+      },
+      {
+        "date": "June 2019 - November 2023",
+        "title": "Travel Content Creator",
+        "desc": "Youtube"
+      },
+      {
+        "date": "January 2018 - December 2020",
+        "title": "Social Media Manager",
+        "desc": "UKWAZI Makadamia & African Christian College, Eswatini"
+      },
+      {
+        "date": "January 2017 - September 2017",
+        "title": "Production Line Assistant",
+        "desc": "Movit Products Limited, Uganda"
+      }
+    ]
+  },
+  {
+    "title": "Education & Certifications",
+    "iconName": "flaticon-graduation-cap",
+    "resumeItems": [
+      {
+        "date": "June 2025",
+        "title": "2x AWS Certified (AI & Cloud Practitioner)",
+        "desc": "Amazon Inc., Boston"
+      },
+      {
+        "date": "January 2025 - Present",
+        "title": "A.S. in Computer Science",
+        "desc": "MassBay Community College, Boston"
+      },
+      {
+        "date": "2022",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+        "desc": "Dr. Angela Yu, Developer and Lead Instructor"
+      },
+      {
+        "date": "2021",
+        "title": "The Complete 2024 Web Development Bootcamp",
+        "desc": "Dr. Angela Yu, Developer and Lead Instructor"
+      },
+      {
+        "date": "2018 - 2020",
+        "title": "Bachelor of Theology (Major in Counselling)",
+        "desc": "African Christian College, Eswatini"
+      },
+      {
+        "date": "2015 - 2016",
+        "title": "Uganda Advanced Certificate of Education (U.A.C.E)",
+        "desc": "East High School, Uganda"
+      },
+      {
+        "date": "2011 - 2014",
+        "title": "Uganda Certificate of Education (U.C.E)",
+        "desc": "East High School, Uganda"
+      }
+    ]
+  }
+]
