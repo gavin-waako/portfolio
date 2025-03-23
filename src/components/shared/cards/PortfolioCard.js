@@ -38,7 +38,7 @@ const PortfolioCard = ({ portfolio }) => {
 
           <div className="flex items-center gap-4 mt-2">
             <div className="flex items-center gap-1">
-              <i className="flaticon-eye" /> {views} Users
+              <i className="flaticon-eye" /> {views} Monthly Visits
             </div>
             <div className="flex items-center gap-1">
               <i className="flaticon-download" /> {downloads} Downloads

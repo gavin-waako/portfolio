@@ -1,18 +1,18 @@
 [
-    {
-        "iconName":"fa-brands fa-twitter",
-        "path":"https://www.facebook.com"
-    },
-    {
-        "iconName":"fa-light fa-basketball",
-        "path":"https://www.basketball.com"
-    },
-    {
-        "iconName":"fa-brands fa-linkedin-in",
-        "path":"https://www.linkedin.com"
-    },
-    {
-        "iconName":"fa-brands fa-github",
-        "path":"https://www.github.com"
-    }
+  {
+    "iconName": "fa-brands fa-linkedin-in",
+    "path": "https://www.linkedin.com/gavinwaako"
+  },
+  {
+    "iconName": "fa-brands fa-github",
+    "path": "https://github.com/sonnygavin"
+  },
+  {
+    "iconName": "fa-brands fa-x-twitter",
+    "path": "https://x.com/sonnygavin"
+  },
+  {
+    "iconName": "fa-brands fa-instagram",
+    "path": "https://instagram.com/gavinsonny"
+  }
 ]

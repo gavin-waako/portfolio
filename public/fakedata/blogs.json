@@ -11,7 +11,7 @@
     "category": "business",
     "tags": ["Design", "Development"],
     "author_role": "Analysis",
-    "author": "gerold",
+    "author": "Gavin Waako",
     "status": "Tutorial",
     "blogTopList": [
       {
@@ -31,7 +31,7 @@
     ],
     "comments": [
       {
-        "authorName": "Jane Doe",
+        "authorName": "Gavin Waako",
         "img": "/img/blog/user-1.jpg",
         "date": "January 3, 2024",
         "smallImg": "",
@@ -75,7 +75,7 @@
     "tags": ["Development", "Strategy"],
     "author_name": "Silvester Scott",
     "author_role": "admin",
-    "author": "gerold",
+    "author": "Gavin Waako",
     "status": "TIPS",
     "isBlogQuote": true,
     "iconId": "f10e",
@@ -97,7 +97,7 @@
     ],
     "comments": [
       {
-        "authorName": "Jane Doe",
+        "authorName": "Gavin Waako",
         "img": "/img/blog/user-1.jpg",
         "date": "January 3, 2024",
         "smallImg": "",

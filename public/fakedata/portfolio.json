@@ -55,12 +55,16 @@
         "color": "#00BFFF"
       },
       {
-        "name": "Node.js",
+        "name": "Redux",
         "color": "#228B22"
       },
       {
-        "name": "MongoDB",
+        "name": "Node.js",
         "color": "#006400"
+      },
+      {
+        "name": "MongoDB",
+        "color": "#228B22"
       }
     ],
     "views": 1240,
@@ -96,7 +100,7 @@
       },
       {
         "title": "Client",
-        "desc": "Artboard Studio"
+        "desc": "Oxford Business School"
       },
       {
         "title": "Start Date",
@@ -104,7 +108,7 @@
       },
       {
         "title": "Designer",
-        "desc": "ThemeJunction"
+        "desc": "Gavin Waako"
       }
     ],
     "descItems": [
