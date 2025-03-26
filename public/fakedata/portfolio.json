@@ -27,8 +27,8 @@
         "desc": "E-commerce, Web & Mobile App"
       },
       {
-        "title": "Client",
-        "desc": "Nanas Closet (PTY) Ltd."
+        "title": "Tech Stack",
+        "desc": "React, JavaScript, Redux, Node.js, MongoDB"
       },
       {
         "title": "Start Date",
@@ -55,16 +55,20 @@
         "color": "#00BFFF"
       },
       {
-        "name": "Redux",
+        "name": "JavaScript",
         "color": "#228B22"
       },
       {
-        "name": "Node.js",
+        "name": "Redux",
         "color": "#006400"
       },
       {
-        "name": "MongoDB",
+        "name": "Node.js",
         "color": "#228B22"
+      },
+      {
+        "name": "MongoDB",
+        "color": "#006400"
       }
     ],
     "views": 1240,

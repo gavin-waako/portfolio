@@ -16,8 +16,11 @@ const Services1 = () => {
               className="text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp"
               data-wow-delay=".4s"
             >
-              We put your ideas and thus your wishes in the form of a unique web
-              project that inspires you and you customers.
+              Computer Science student with a strong foundation in web/mobile
+              software development, algorithms, and problem-solving. Authorized
+              to work in the USA under OPT/CPT. Committed to delivering
+              innovative solutions and contributing effectively to collaborative
+              projects.
             </p>
           </div>
           {/* <!-- services --> */}
