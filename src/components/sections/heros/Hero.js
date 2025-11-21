@@ -21,8 +21,7 @@ const Hero = () => {
               I&apos;m Gavin Waako,
             </h4>
             <h1 className="text-size-35 md:text-size-38 lg:text-size-50 xl:text-6xl 2xl:text-size-65 bg-gradient-text-light dark:bg-gradient-text bg-clip-text xl:leading-1.2 text-transparent mb-15px">
-              Highly-skilled Software <br />
-              Developer.
+              A Software Engineer
             </h1>
             <div className="flex md:hidden justify-center items-center my-30px">
               <Image
@@ -34,14 +33,20 @@ const Hero = () => {
               />
             </div>
             <p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-              I break down complex user oriented problems to create bespoke
-              software solutions that make the world a better place
+              I’m passionate about machine learning, computational theory, and
+              the mathematical principles behind intelligent systems.
+              <br />
+              <br />
+              In the long run, my goal is to pursue advanced studies (B.S.,
+              M.Sc., Ph.D.) and, through research, contribute to the deeper
+              theoretical understanding of how intelligent systems learn and
+              reason.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">
               <div>
-                <ButtonSeondary url="#contact">
-                  Download CV{" "}
+                <ButtonSeondary url="/resume.pdf">
+                  Download Resume{" "}
                   <i className="flaticon-download ml-0.5 text-size-17"></i>
                 </ButtonSeondary>
               </div>
@@ -60,8 +65,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      {/* <!-- fanfact --> */}
-      <FunFact />
     </section>
   );
 };

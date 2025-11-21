@@ -257,28 +257,13 @@ const BlogDetailsPrimary = ({
                     </li>
                     <li>
                       <Link
-                        href="https://x.com"
-                        className="text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden"
-                      >
-                        <i className="fa-brands fa-x-twitter"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        href="https://www.linkedin.com"
+                        href="https://www.linkedin.com/gavin-waako"
                         className="text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden"
                       >
                         <i className="fa-brands fa-linkedin-in"></i>
                       </Link>
                     </li>
-                    <li>
-                      <Link
-                        href="https://www.pinterest.com"
-                        className="text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden"
-                      >
-                        <i className="fa-brands fa-pinterest-p"></i>
-                      </Link>
-                    </li>
+                    <li></li>
                   </ul>
                 </div>
               </div>

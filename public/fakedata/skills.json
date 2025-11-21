@@ -15,11 +15,6 @@
     "perchant": "99%"
   },
   {
-    "name": "Django",
-    "img": "/img/icons/django.png",
-    "perchant": "99%"
-  },
-  {
     "name": "C++",
     "img": "/img/icons/c++.png",
     "perchant": "89%"
@@ -65,7 +60,7 @@
     "perchant": "93%"
   },
   {
-    "name": "2x AWS (AI & Cloud Practitioner)",
+    "name": "1x AWS Cloud Practitioner",
     "img": "/img/icons/aws.png",
     "perchant": "80%"
   },

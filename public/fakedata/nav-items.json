@@ -1,8 +1,8 @@
 [
   {
-    "name": "Services",
-    "path": "#services",
-    "path2": "/#services"
+    "name": "About",
+    "path": "#about",
+    "path2": "/#about"
   },
   {
     "name": "Projects",
@@ -10,12 +10,12 @@
     "path2": "/#portfolio"
   },
   {
-    "name": "Résumé",
-    "path": "#resume",
-    "path2": "/#resume"
+    "name": "Education & Work",
+    "path": "#education-work",
+    "path2": "/#education-work"
   },
   {
-    "name": "Tech Stack",
+    "name": "Tech Skills",
     "path": "#skills",
     "path2": "/#skills"
   },

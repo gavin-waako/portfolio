@@ -18,8 +18,8 @@ const Contact1 = () => {
                       className="text-primary-color-light dark:text-body-color wow fadeInLeft"
                       data-wow-delay=".4s"
                     >
-                      I design and code beautifully simple things and i love
-                      what i do. Just simple like that!
+                      Have an opportunity and want to discuss, don't hesitate.
+                      Send me a message!
                     </p>
                   </div>
                   {/* <!-- inputs --> */}
@@ -98,10 +98,10 @@ const Contact1 = () => {
                         Phone
                       </p>
                       <a
-                        href="tel:0123456789"
+                        href="tel:+15089758422"
                         className="text-primary-color-light dark:text-white-color text-lg lg:text-xl font-medium hover:text-primary-color"
                       >
-                        +01 123 654 8096
+                        +1 508 975 8422
                       </a>
                     </div>
                   </li>
@@ -117,10 +117,10 @@ const Contact1 = () => {
                         Email
                       </p>
                       <a
-                        href="mailto:info@sonnygavin.com"
+                        href="mailto:g_waako@massbay.edu"
                         className="text-primary-color-light dark:text-white-color text-lg lg:text-xl font-medium hover:text-primary-color"
                       >
-                        info@SonnyGavin.dev
+                        g_waako@massbay.edu
                       </a>
                     </div>
                   </li>
@@ -139,8 +139,7 @@ const Contact1 = () => {
                         href="#"
                         className="text-primary-color-light dark:text-white-color text-lg lg:text-xl font-medium hover:text-primary-color"
                       >
-                        123 Main Street, <br />
-                        Boston, MA 02110, <br />
+                        Waltham, MA 02453, <br />
                         USA
                       </a>
                     </div>

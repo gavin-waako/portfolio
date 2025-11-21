@@ -3,7 +3,7 @@ import getResume from "@/libs/getResume";
 const Resume1 = () => {
   const resume = getResume();
   return (
-    <section id="resume">
+    <section id="education-work">
       <div className="bg-cream-light-color dark:bg-black-color py-60px md:py-20 lg:py-30 ">
         <div className="container">
           <div className="experience grid grid-cols-1 md:grid-cols-2 gap-30px gap-y-50px overflow-hidden">
