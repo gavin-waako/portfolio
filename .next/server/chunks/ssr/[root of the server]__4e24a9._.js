@@ -311,7 +311,7 @@ const __TURBOPACK__default__export__ = getBlogCategories;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"id\":1,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"/img/blog/post-thumb-1.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"business\",\"tags\":[\"Design\",\"Development\"],\"author_role\":\"Analysis\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":2,\"title\":\"The services provide for design\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"\",\"desc\":\"“Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency.”\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Design\",\"tags\":[\"Development\",\"Strategy\"],\"author_name\":\"Silvester Scott\",\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"TIPS\",\"isBlogQuote\":true,\"iconId\":\"f10e\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Nov 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":3,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-2.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Development\",\"tags\":[\"Strategy\",\"Technology\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"TIPS\",\"popupVideo\":\"https://www.youtube.com/watch?v=u31qwQUeGuM\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Nov 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":4,\"title\":\"Digital Marketo to Their New Office.\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-3.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Portfolio\",\"tags\":[\"Business\",\"Design\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"FREEBIES\",\"slider\":[\"/img/blog/blog-2.jpg\",\"/img/blog/blog-3.jpg\",\"/img/blog/blog-1.jpg\"],\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Dec 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":5,\"title\":\"Want To Upgrade Your Brain? Stop Doing 7 Things\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-1.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"SAAS\",\"tags\":[\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":6,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/4.jpg\",\"detailsImg\":\"/img/blog/blog-2.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Technology\",\"tags\":[\"Technology\",\"Tips\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":7,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Trending\",\"tags\":[\"Design\",\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":8,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Analysis\",\"tags\":[\"Strategy\",\"Technology\",\"Tips\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":9,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Design\",\"tags\":[\"Design\",\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":10,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/4.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Development\",\"tags\":[\"Analysis\",\"Business\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"id\":1,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"/img/blog/post-thumb-1.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"business\",\"tags\":[\"Design\",\"Development\"],\"author_role\":\"Analysis\",\"author\":\"Gavin Waako\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Gavin Waako\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":2,\"title\":\"The services provide for design\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"\",\"desc\":\"“Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency.”\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Design\",\"tags\":[\"Development\",\"Strategy\"],\"author_name\":\"Silvester Scott\",\"author_role\":\"admin\",\"author\":\"Gavin Waako\",\"status\":\"TIPS\",\"isBlogQuote\":true,\"iconId\":\"f10e\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Nov 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Gavin Waako\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":3,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-2.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Development\",\"tags\":[\"Strategy\",\"Technology\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"TIPS\",\"popupVideo\":\"https://www.youtube.com/watch?v=u31qwQUeGuM\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Nov 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":4,\"title\":\"Persistence Is All You Need: My 12-Year Journey to Becoming a Computer Scientist\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-3.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Portfolio\",\"tags\":[\"Business\",\"Design\"],\"author_role\":\"admin\",\"author\":\"Gavin Waako\",\"status\":\"FREEBIES\",\"slider\":[\"/img/blog/blog-2.jpg\",\"/img/blog/blog-3.jpg\",\"/img/blog/blog-1.jpg\"],\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Dec 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":5,\"title\":\"Want To Upgrade Your Brain? Stop Doing 7 Things\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-1.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"SAAS\",\"tags\":[\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":6,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/4.jpg\",\"detailsImg\":\"/img/blog/blog-2.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Technology\",\"tags\":[\"Technology\",\"Tips\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":7,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/1.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Trending\",\"tags\":[\"Design\",\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":8,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/2.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Analysis\",\"tags\":[\"Strategy\",\"Technology\",\"Tips\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":9,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Design\",\"tags\":[\"Design\",\"Development\",\"Strategy\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]},{\"id\":10,\"title\":\"The Role of Technology in Modern Logistics Management\",\"img\":\"/img/blog/4.jpg\",\"detailsImg\":\"/img/blog/blog-4.jpg\",\"smallImg\":\"\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Development\",\"tags\":[\"Analysis\",\"Business\"],\"author_role\":\"admin\",\"author\":\"gerold\",\"status\":\"Tutorial\",\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Oct 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]}]"));}}),
 "[project]/src/libs/getBlogs.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -1319,10 +1319,10 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "https://x.com",
+                                                            href: "https://www.linkedin.com/gavin-waako",
                                                             className: "text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "fa-brands fa-x-twitter"
+                                                                className: "fa-brands fa-linkedin-in"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
                                                                 lineNumber: 263,
@@ -1338,46 +1338,9 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                         lineNumber: 258,
                                                         columnNumber: 21
                                                     }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "https://www.linkedin.com",
-                                                            className: "text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "fa-brands fa-linkedin-in"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 271,
-                                                                columnNumber: 25
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 267,
-                                                            columnNumber: 23
-                                                        }, this)
-                                                    }, void 0, false, {
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {}, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
                                                         lineNumber: 266,
-                                                        columnNumber: 21
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "https://www.pinterest.com",
-                                                            className: "text-primary-color dark:text-white-color border border-primary-color hover:bg-primary-color w-10 h-10 rounded-full flex items-center justify-center overflow-hidden",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "fa-brands fa-pinterest-p"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 279,
-                                                                columnNumber: 25
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 275,
-                                                            columnNumber: 23
-                                                        }, this)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 274,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
@@ -1419,17 +1382,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                         height: 2000
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 298,
+                                                                        lineNumber: 283,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 294,
+                                                                    lineNumber: 279,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 293,
+                                                                lineNumber: 278,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1444,20 +1407,20 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                     className: "fa-regular fa-angle-double-left"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 313,
+                                                                                    lineNumber: 298,
                                                                                     columnNumber: 33
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: " previous"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 314,
+                                                                                    lineNumber: 299,
                                                                                     columnNumber: 33
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 309,
+                                                                            lineNumber: 294,
                                                                             columnNumber: 31
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1467,35 +1430,35 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$libs$2f$sliceText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])(prevBlogTitle, 45)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 317,
+                                                                                lineNumber: 302,
                                                                                 columnNumber: 33
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 316,
+                                                                            lineNumber: 301,
                                                                             columnNumber: 31
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 308,
+                                                                    lineNumber: 293,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 307,
+                                                                lineNumber: 292,
                                                                 columnNumber: 27
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 292,
+                                                        lineNumber: 277,
                                                         columnNumber: 25
                                                     }, this)
                                                 }, void 0, false) : ""
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 289,
+                                                lineNumber: 274,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1515,20 +1478,20 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: " Next"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 342,
+                                                                                lineNumber: 327,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                 className: "fa-regular fa-angle-double-right"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 343,
+                                                                                lineNumber: 328,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 338,
+                                                                        lineNumber: 323,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1538,23 +1501,23 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                             children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$libs$2f$sliceText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])(nextBlogTitle, 45)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 346,
+                                                                            lineNumber: 331,
                                                                             columnNumber: 31
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 345,
+                                                                        lineNumber: 330,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 337,
+                                                                lineNumber: 322,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 336,
+                                                            lineNumber: 321,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1569,39 +1532,39 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                     height: 2000
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 360,
+                                                                    lineNumber: 345,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 356,
+                                                                lineNumber: 341,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 355,
+                                                            lineNumber: 340,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                    lineNumber: 335,
+                                                    lineNumber: 320,
                                                     columnNumber: 23
                                                 }, this) : ""
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 333,
+                                                lineNumber: 318,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                        lineNumber: 287,
+                                        lineNumber: 272,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 286,
+                                    lineNumber: 271,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1614,25 +1577,25 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                 children: "3 Comments"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 381,
+                                                lineNumber: 366,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 380,
+                                            lineNumber: 365,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$blog$2d$details$2f$BlogComments$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             comments: comments
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 386,
+                                            lineNumber: 371,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 379,
+                                    lineNumber: 364,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1646,12 +1609,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                 children: "Leave a Reply"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 392,
+                                                lineNumber: 377,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 391,
+                                            lineNumber: 376,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1659,7 +1622,7 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                             children: "I design and code beautifully simple things and i love what i do. Just simple like that!"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 396,
+                                            lineNumber: 381,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -1673,12 +1636,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 405,
+                                                            lineNumber: 390,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 404,
+                                                        lineNumber: 389,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1688,12 +1651,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 413,
+                                                            lineNumber: 398,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 412,
+                                                        lineNumber: 397,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1705,17 +1668,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                 className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 422,
+                                                                lineNumber: 407,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 421,
+                                                            lineNumber: 406,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 420,
+                                                        lineNumber: 405,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1727,12 +1690,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 430,
+                                                            lineNumber: 415,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 429,
+                                                        lineNumber: 414,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1746,25 +1709,25 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                     id: "agreetocomment"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 442,
+                                                                    lineNumber: 427,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "Save my name, email, and website in this browser for the next time I comment."
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 443,
+                                                                    lineNumber: 428,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 438,
+                                                            lineNumber: 423,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 437,
+                                                        lineNumber: 422,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1775,29 +1738,29 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             children: "Post Comment"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 450,
+                                                            lineNumber: 435,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 449,
+                                                        lineNumber: 434,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 402,
+                                                lineNumber: 387,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 401,
+                                            lineNumber: 386,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 390,
+                                    lineNumber: 375,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -1808,7 +1771,7 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$sidebar$2f$BlogSidebar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                            lineNumber: 462,
+                            lineNumber: 447,
                             columnNumber: 13
                         }, this)
                     ]
@@ -2448,7 +2411,7 @@ const Footer = ()=>{
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: `copyright ${footerType === 2 || footerType === 3 ? "text-primary-color" : "text-gray-color"} whitespace-nowrap text-sm md:text-base mt-5`,
                             children: [
-                                "© 2024 All rights reserved by",
+                                "© 2025 All rights reserved by",
                                 " ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                     href: "/",
@@ -2609,7 +2572,7 @@ const __TURBOPACK__default__export__ = Logo;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"name\":\"Services\",\"path\":\"#services\",\"path2\":\"/#services\"},{\"name\":\"Projects\",\"path\":\"#portfolio\",\"path2\":\"/#portfolio\"},{\"name\":\"Resume\",\"path\":\"#resume\",\"path2\":\"/#resume\"},{\"name\":\"Tech Stack\",\"path\":\"#skills\",\"path2\":\"/#skills\"},{\"name\":\"Testimonials\",\"path\":\"#testimonials\",\"path2\":\"/#testimonials\"},{\"name\":\"Contact\",\"path\":\"#contact\",\"path2\":\"/#contact\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"name\":\"About\",\"path\":\"#about\",\"path2\":\"/#about\"},{\"name\":\"Projects\",\"path\":\"#portfolio\",\"path2\":\"/#portfolio\"},{\"name\":\"Education & Work\",\"path\":\"#education-work\",\"path2\":\"/#education-work\"},{\"name\":\"Tech Skills\",\"path\":\"#skills\",\"path2\":\"/#skills\"},{\"name\":\"Testimonials\",\"path\":\"#testimonials\",\"path2\":\"/#testimonials\"},{\"name\":\"Contact\",\"path\":\"#contact\",\"path2\":\"/#contact\"}]"));}}),
 "[project]/src/libs/getNavItems.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -2839,33 +2802,33 @@ const Navbar = ({ isActiveMobileMenu, setIsActiveMobileMenu, isSticky })=>{
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/header/Navbar.js",
                             lineNumber: 24,
-                            columnNumber: 9
+                            columnNumber: 17
                         }, this)
                     }, idx, false, {
                         fileName: "[project]/src/components/layout/header/Navbar.js",
                         lineNumber: 23,
-                        columnNumber: 8
+                        columnNumber: 15
                     }, this)) : "",
                 headerType === 3 ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                     children: isResumeBtn ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$buttons$2f$ButtonPrimary2$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         url: "#",
-                        children: "Resume"
+                        children: "Download Resume"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/header/Navbar.js",
                         lineNumber: 44,
-                        columnNumber: 8
+                        columnNumber: 15
                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$buttons$2f$ButtonPrimary$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         url: isIndexPage ? "#contact" : "/#contact",
-                        children: "Hire Me!"
+                        children: "Contact Me!"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/header/Navbar.js",
                         lineNumber: 46,
-                        columnNumber: 8
+                        columnNumber: 15
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/header/Navbar.js",
                     lineNumber: 42,
-                    columnNumber: 6
+                    columnNumber: 11
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                     className: "menu-bar lg:hidden",
@@ -2878,49 +2841,49 @@ const Navbar = ({ isActiveMobileMenu, setIsActiveMobileMenu, isSticky })=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                     fileName: "[project]/src/components/layout/header/Navbar.js",
                                     lineNumber: 59,
-                                    columnNumber: 8
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                     fileName: "[project]/src/components/layout/header/Navbar.js",
                                     lineNumber: 60,
-                                    columnNumber: 8
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                     fileName: "[project]/src/components/layout/header/Navbar.js",
                                     lineNumber: 61,
-                                    columnNumber: 8
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                     fileName: "[project]/src/components/layout/header/Navbar.js",
                                     lineNumber: 62,
-                                    columnNumber: 8
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/layout/header/Navbar.js",
                             lineNumber: 55,
-                            columnNumber: 7
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/header/Navbar.js",
                         lineNumber: 54,
-                        columnNumber: 6
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/header/Navbar.js",
                     lineNumber: 53,
-                    columnNumber: 5
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/layout/header/Navbar.js",
             lineNumber: 20,
-            columnNumber: 4
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/components/layout/header/Navbar.js",
         lineNumber: 19,
-        columnNumber: 3
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = Navbar;
@@ -2988,9 +2951,9 @@ const Header = ({ isSticky })=>{
                                         headerType === 3 ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             className: "hidden md:block",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "mailto:info@sonnygavin.dev",
+                                                href: "mailto:g_waako@massbay.edu",
                                                 className: `text-size-15 font-medium ${isInnerPage && !isSticky ? "text-white-color" : "text-seondary-color dark:text-white-color"} `,
-                                                children: "info@sonnygavin.dev"
+                                                children: "g_waako@massbay.edu"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/header/Header.js",
                                                 lineNumber: 41,
