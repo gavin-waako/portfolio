@@ -1,38 +1,20 @@
 [
   {
     "id": 1,
-    "authorName": "Aisha Zawadi",
-    "authorDesig": "Owner, Nanas Closet (PTY) Ltd.",
+    "authorName": "Dean's List",
+    "authorDesig": "Issued by Massachusetts Bay Community College · Jun 2025",
     "img": "/img/testimonials/user/1.jpg",
     "logoImg": "/img/testimonials/logo/1.png",
     "logoImgLight": "/img/testimonials/logo/1-dark.png",
-    "desc": "“Gavin is a professional Developer he really helps my business by providing value to my business."
+    "desc": "Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester."
   },
   {
     "id": 2,
-    "authorName": "Jomo Odinga",
-    "authorDesig": "C.E.O. & Founder, Oxford Business School",
+    "authorName": "President's List",
+    "authorDesig": "Issued by Massachusetts Bay Community College · Dec 2025",
     "img": "/img/testimonials/user/2.jpg",
     "logoImg": "/img/testimonials/logo/2.png",
     "logoImgLight": "/img/testimonials/logo/2-dark.png",
-    "desc": "“Gavin is a professional Developer he really helps my business by providing value to my business."
-  },
-  {
-    "id": 3,
-    "authorName": "Tim Bailey",
-    "authorDesig": "SEO Specialist, Theme Junction",
-    "img": "/img/testimonials/user/1.jpg",
-    "logoImg": "/img/testimonials/logo/1.png",
-    "logoImgLight": "/img/testimonials/logo/1-dark.png",
-    "desc": "“Gavin is a professional Developer he really helps my business by providing value to my business."
-  },
-  {
-    "id": 4,
-    "authorName": "Brandon Fraser",
-    "authorDesig": "Senior Software Dev, Cosmic Sport",
-    "img": "/img/testimonials/user/2.jpg",
-    "logoImg": "/img/testimonials/logo/2.png",
-    "logoImgLight": "/img/testimonials/logo/2-dark.png",
-    "desc": "“Gavin is a professional Developer he really helps my business by providing value to my business."
+    "desc": "Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Fall 2025 semester."
   }
 ]

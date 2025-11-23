@@ -39,8 +39,8 @@ const Hero = () => {
               <br />
               In the long run, my goal is to pursue advanced studies (B.S.,
               M.Sc., Ph.D.) and, through research, contribute to the deeper
-              theoretical understanding of how intelligent systems learn and
-              reason.
+              theoretical and practical understanding of how intelligent systems
+              learn and reason.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">

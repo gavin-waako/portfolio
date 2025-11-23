@@ -1199,7 +1199,7 @@ const Hero = ()=>{
                                             lineNumber: 39,
                                             columnNumber: 15
                                         }, this),
-                                        "In the long run, my goal is to pursue advanced studies (B.S., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical understanding of how intelligent systems learn and reason."
+                                        "In the long run, my goal is to pursue advanced studies (B.S., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical and practical understanding of how intelligent systems learn and reason."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
@@ -2601,7 +2601,7 @@ const __TURBOPACK__default__export__ = TestimonialsCard;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"id\":1,\"authorName\":\"Aisha Zawadi\",\"authorDesig\":\"Owner, Nanas Closet (PTY) Ltd.\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/1.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"“Gavin is a professional Developer he really helps my business by providing value to my business.\"},{\"id\":2,\"authorName\":\"Jomo Odinga\",\"authorDesig\":\"C.E.O. & Founder, Oxford Business School\",\"img\":\"/img/testimonials/user/2.jpg\",\"logoImg\":\"/img/testimonials/logo/2.png\",\"logoImgLight\":\"/img/testimonials/logo/2-dark.png\",\"desc\":\"“Gavin is a professional Developer he really helps my business by providing value to my business.\"},{\"id\":3,\"authorName\":\"Tim Bailey\",\"authorDesig\":\"SEO Specialist, Theme Junction\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/1.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"“Gavin is a professional Developer he really helps my business by providing value to my business.\"},{\"id\":4,\"authorName\":\"Brandon Fraser\",\"authorDesig\":\"Senior Software Dev, Cosmic Sport\",\"img\":\"/img/testimonials/user/2.jpg\",\"logoImg\":\"/img/testimonials/logo/2.png\",\"logoImgLight\":\"/img/testimonials/logo/2-dark.png\",\"desc\":\"“Gavin is a professional Developer he really helps my business by providing value to my business.\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"id\":1,\"authorName\":\"Dean's List\",\"authorDesig\":\"Issued by Massachusetts Bay Community College · Jun 2025\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/1.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester.\"},{\"id\":2,\"authorName\":\"President's List\",\"authorDesig\":\"Issued by Massachusetts Bay Community College · Dec 2025\",\"img\":\"/img/testimonials/user/2.jpg\",\"logoImg\":\"/img/testimonials/logo/2.png\",\"logoImgLight\":\"/img/testimonials/logo/2-dark.png\",\"desc\":\"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Fall 2025 semester.\"}]"));}}),
 "[project]/src/libs/getTestimonials.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -2658,7 +2658,7 @@ const Testimonials1 = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "text-3xl md:text-size-35 lg:text-size-40 xl:text-size-45 bg-gradient-text-light dark:bg-gradient-text bg-clip-text  leading-1.2 xl:leading-1.2 text-transparent mb-15px wow fadeInLeft",
                                         "data-wow-delay": ".3s",
-                                        children: "Real Feedback, Real Impact"
+                                        children: "Honors & Awards"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/sections/testimonials/Testimonials1.js",
                                         lineNumber: 20,
@@ -2667,7 +2667,7 @@ const Testimonials1 = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-primary-color-light dark:text-body-color wow fadeInLeft",
                                         "data-wow-delay": ".4s",
-                                        children: "See how my solutions have brought client visions to life. Your success story could be next."
+                                        children: "Recognition for academic excellence and impactful technical work."
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/sections/testimonials/Testimonials1.js",
                                         lineNumber: 26,
@@ -3276,7 +3276,7 @@ const __TURBOPACK__default__export__ = Logo;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"name\":\"About\",\"path\":\"#about\",\"path2\":\"/#about\"},{\"name\":\"Projects\",\"path\":\"#portfolio\",\"path2\":\"/#portfolio\"},{\"name\":\"Education & Work\",\"path\":\"#education-work\",\"path2\":\"/#education-work\"},{\"name\":\"Tech Skills\",\"path\":\"#skills\",\"path2\":\"/#skills\"},{\"name\":\"Testimonials\",\"path\":\"#testimonials\",\"path2\":\"/#testimonials\"},{\"name\":\"Contact\",\"path\":\"#contact\",\"path2\":\"/#contact\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"name\":\"About\",\"path\":\"#about\",\"path2\":\"/#about\"},{\"name\":\"Projects\",\"path\":\"#portfolio\",\"path2\":\"/#portfolio\"},{\"name\":\"Education & Work\",\"path\":\"#education-work\",\"path2\":\"/#education-work\"},{\"name\":\"Tech Skills\",\"path\":\"#skills\",\"path2\":\"/#skills\"},{\"name\":\"Honors & Awards\",\"path\":\"#honors-awards\",\"path2\":\"/#honors-awards\"},{\"name\":\"Contact\",\"path\":\"#contact\",\"path2\":\"/#contact\"}]"));}}),
 "[project]/src/libs/getNavItems.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 

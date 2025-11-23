@@ -21,14 +21,14 @@ const Testimonials1 = () => {
                   className="text-3xl md:text-size-35 lg:text-size-40 xl:text-size-45 bg-gradient-text-light dark:bg-gradient-text bg-clip-text  leading-1.2 xl:leading-1.2 text-transparent mb-15px wow fadeInLeft"
                   data-wow-delay=".3s"
                 >
-                  Real Feedback, Real Impact
+                  Honors & Awards
                 </h2>
                 <p
                   className="text-primary-color-light dark:text-body-color wow fadeInLeft"
                   data-wow-delay=".4s"
                 >
-                  See how my solutions have brought client visions to life. Your
-                  success story could be next.
+                  Recognition for academic excellence and impactful technical
+                  work.
                 </p>
               </div>
             </div>
