@@ -37,10 +37,10 @@ const Hero = () => {
               the mathematical principles behind intelligent systems.
               <br />
               <br />
-              In the near future, my goal is to pursue advanced studies (B.S.,
-              M.Sc., Ph.D.) and, through research, contribute to the deeper
-              theoretical and practical understanding of how intelligent systems
-              learn and reason.
+              In the near future, my goal is to pursue advanced studies (B.Sc.,
+              M.Sc., Ph.D.) and, through research, contribute to a deeper
+              theoretical and practical understanding of how computer systems
+              can be built to learn to reason.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">

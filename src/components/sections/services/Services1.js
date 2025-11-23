@@ -11,16 +11,16 @@ const Services1 = () => {
         <div className="container">
           {/* <!-- section heading --> */}
           <div className="text-center flex flex-col items-center mb-10 md:mb-50px">
-            <HeadingPrimary>Key Courses</HeadingPrimary>
+            <HeadingPrimary>Courses Done</HeadingPrimary>
             <p
               className="text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp"
               data-wow-delay=".4s"
             >
               Java Programming I & II, Python Programming, Data Structures,
-              Introduction to Computation, Calculus I & II, Systems Programming
-              with C, Computer Architecture and Assembly Language, Intro to
-              Computer Science, Critical Thinking, Pre-Calculus Mathematics, and
-              Pre-Calculus CoreQ.
+              Introduction to Computation (Discrete Mathematics), Calculus I &
+              II, Systems Programming with C, Computer Architecture and Assembly
+              Language, Intro to Computer Science, Critical Thinking,
+              Pre-Calculus Mathematics, and Pre-Calculus CoreQ.
             </p>
           </div>
         </div>

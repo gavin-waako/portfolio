@@ -276,13 +276,85 @@
   },
   {
     "id": 5,
+    "title": "GridWatch AI",
+    "title2": "Probabilistic load-shedding forecasts, risk maps, and practical alerts to help South Africans plan around power cuts.",
+    "img": "/img/portfolio/4.gif",
+    "imgLarge": "/img/portfolio/3.jpg",
+    "detailsImg": "/img/portfolio/portfolio-details-4.jpg",
+    "desc": "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
+    "shortDesc": "ML Load-shedding forecasts",
+    "desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+    "desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+
+    "category": "Branding",
+    "featured": false,
+    "featuredDesc": " Project was about precision and information. That’s all. Our design tem helps clients achieve their marketing Trager and branding that appeals to a website",
+    "featuredImg": "/img/project/project-2.png",
+    "employee": {
+      "name": "",
+      "desig": "",
+      "img": ""
+    },
+    "tags": ["Branding", "Graphic Design", "User Stories"],
+    "dataFilter": "machine-learning",
+    "statusItem": [
+      {
+        "title": "Category",
+        "desc": "Web Design"
+      },
+      {
+        "title": "Client",
+        "desc": "Artboard Studio"
+      },
+      {
+        "title": "Start Date",
+        "desc": "August 20, 2023"
+      },
+      {
+        "title": "Designer",
+        "desc": "ThemeJunction"
+      }
+    ],
+    "descItems": [
+      {
+        "title": "The story",
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+      },
+      {
+        "title": "OUR APPROACH",
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+      }
+    ],
+    "techStack": [
+      {
+        "name": "Python",
+        "color": "#00BFFF"
+      },
+      {
+        "name": "scikit-learn",
+        "color": "#228B22"
+      },
+      {
+        "name": "matplotlib",
+        "color": "#228B22"
+      },
+      {
+        "name": "Pandas",
+        "color": "#006400"
+      }
+    ],
+    "views": 1240,
+    "downloads": 320
+  },
+  {
+    "id": 6,
     "title": "YouTube Comment Polarity Detection",
     "title2": "Project Description",
     "img": "/img/portfolio/4.gif",
     "imgLarge": "/img/portfolio/3.jpg",
     "detailsImg": "/img/portfolio/portfolio-details-4.jpg",
     "desc": "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
-    "shortDesc": "Sentiment Analyzer",
+    "shortDesc": "ML Sentiment Analyzer",
     "desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
     "desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 

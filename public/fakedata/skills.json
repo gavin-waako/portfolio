@@ -1,23 +1,27 @@
 [
   {
     "name": "Java",
-    "img": "/img/icons/java.png",
-    "perchant": "92%"
+    "img": "/img/icons/java.png"
   },
   {
     "name": "Spring Boot",
-    "img": "/img/icons/spring-boot.png",
-    "perchant": "92%"
+    "img": "/img/icons/spring-boot.png"
   },
   {
     "name": "Python",
-    "img": "/img/icons/python.png",
-    "perchant": "99%"
+    "img": "/img/icons/python.png"
+  },
+  {
+    "name": "PyTorch",
+    "img": "/img/icons/pytorch.png"
+  },
+  {
+    "name": "scikit-learn",
+    "img": "/img/icons/scikit-learn.png"
   },
   {
     "name": "C++",
-    "img": "/img/icons/c++.png",
-    "perchant": "89%"
+    "img": "/img/icons/c++.png"
   },
   {
     "name": "TypeScript",
@@ -26,57 +30,46 @@
   },
   {
     "name": "JavaScript",
-    "img": "/img/icons/js.png",
-    "perchant": "93%"
+    "img": "/img/icons/js.png"
   },
   {
     "name": "React/React Native",
-    "img": "/img/icons/react.png",
-    "perchant": "89%"
+    "img": "/img/icons/react.png"
   },
   {
     "name": "NextJS",
-    "img": "/img/icons/nextjs.png",
-    "perchant": "89%"
+    "img": "/img/icons/nextjs.png"
   },
   {
     "name": "MySQL",
-    "img": "/img/icons/mysql.png",
-    "perchant": "93%"
+    "img": "/img/icons/mysql.png"
   },
   {
     "name": "PostgreSQL",
-    "img": "/img/icons/postgresql.png",
-    "perchant": "93%"
+    "img": "/img/icons/postgresql.png"
   },
   {
     "name": "MongoDB",
-    "img": "/img/icons/mongodb.png",
-    "perchant": "93%"
+    "img": "/img/icons/mongodb.png"
   },
   {
     "name": "NodeJS",
-    "img": "/img/icons/nodejs.png",
-    "perchant": "93%"
+    "img": "/img/icons/nodejs.png"
   },
   {
     "name": "1x AWS Cloud Practitioner",
-    "img": "/img/icons/aws.png",
-    "perchant": "80%"
+    "img": "/img/icons/aws.png"
   },
   {
     "name": "Git/GitHub",
-    "img": "/img/icons/git-github.png",
-    "perchant": "85%"
+    "img": "/img/icons/git-github.png"
   },
   {
     "name": "WordPress",
-    "img": "/img/icons/wp.png",
-    "perchant": "99%"
+    "img": "/img/icons/wp.png"
   },
   {
     "name": "Docker",
-    "img": "/img/icons/docker.png",
-    "perchant": "89%"
+    "img": "/img/icons/docker.png"
   }
 ]
