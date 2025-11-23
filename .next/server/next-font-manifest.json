@@ -1,6 +1,7 @@
 {
   "app": {
-    "[project]/src/app/page": []
+    "[project]/src/app/page": [],
+    "[project]/src/app/blogs/[id]/page": []
   },
   "appUsingSizeAdjust": true,
   "pages": {},
