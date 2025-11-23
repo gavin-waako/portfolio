@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const Testimonials1 = () => {
   const testimonials = getTestimonials();
   return (
-    <section id="testimonials">
+    <section id="honors-awards">
       <div className="bg-cream-light-color dark:bg-black-color py-60px md:py-20 lg:py-30">
         <div className="container">
           <div className="testimonials grid lg:grid-cols-12 gap-6 overflow-x-hidden">
