@@ -228,7 +228,7 @@
       "img": ""
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "machine-learning",
+    "dataFilter": "web",
     "statusItem": [
       {
         "title": "Category",
@@ -276,13 +276,13 @@
   },
   {
     "id": 5,
-    "title": "AgileContractors.co.za",
+    "title": "YouTube Comment Polarity Detection",
     "title2": "Project Description",
     "img": "/img/portfolio/4.gif",
     "imgLarge": "/img/portfolio/3.jpg",
     "detailsImg": "/img/portfolio/portfolio-details-4.jpg",
     "desc": "They are was greater open above shelter lets itself under appear sixth open gathering made upon can't own above midst gathering gathered he one us saying can't divide.",
-    "shortDesc": "Construction company",
+    "shortDesc": "Sentiment Analyzer",
     "desc1": "The goal is there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
     "desc2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 
@@ -327,19 +327,19 @@
     ],
     "techStack": [
       {
-        "name": "WordPress",
+        "name": "Python",
         "color": "#00BFFF"
       },
       {
-        "name": "Php",
+        "name": "scikit-learn",
         "color": "#228B22"
       },
       {
-        "name": "SCSS",
+        "name": "matplotlib",
         "color": "#228B22"
       },
       {
-        "name": "HTML",
+        "name": "Pandas",
         "color": "#006400"
       }
     ],

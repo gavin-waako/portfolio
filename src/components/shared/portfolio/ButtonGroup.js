@@ -16,7 +16,7 @@ const filterButtons = [
     dataFilter: ".mobile",
   },
   {
-    name: "ML",
+    name: "Machine Learning",
     dataFilter: ".machine-learning",
   },
 ];
