@@ -9,15 +9,15 @@ const filterButtons = [
   },
   {
     name: "Web",
-    dataFilter: ".uxui",
+    dataFilter: ".web",
   },
   {
     name: "Mobile",
-    dataFilter: ".branding",
+    dataFilter: ".mobile",
   },
   {
-    name: "Saas",
-    dataFilter: ".mobile-app",
+    name: "ML",
+    dataFilter: ".machine-learning",
   },
 ];
 const ButtonGroup = () => {

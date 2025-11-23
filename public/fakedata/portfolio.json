@@ -20,7 +20,7 @@
       "img": "/img/project/project-1.png"
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "branding",
+    "dataFilter": "web",
     "statusItem": [
       {
         "title": "Category",
@@ -96,7 +96,7 @@
       "img": ""
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "uxui",
+    "dataFilter": "web",
     "statusItem": [
       {
         "title": "Category",
@@ -160,7 +160,7 @@
       "img": ""
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "mobile-app",
+    "dataFilter": "mobile",
     "statusItem": [
       {
         "title": "Category",
@@ -228,7 +228,7 @@
       "img": ""
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "branding",
+    "dataFilter": "machine-learning",
     "statusItem": [
       {
         "title": "Category",
@@ -296,7 +296,7 @@
       "img": ""
     },
     "tags": ["Branding", "Graphic Design", "User Stories"],
-    "dataFilter": "branding",
+    "dataFilter": "machine-learning",
     "statusItem": [
       {
         "title": "Category",
