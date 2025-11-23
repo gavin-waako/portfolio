@@ -1273,7 +1273,7 @@ const Hero = ()=>{
                                             lineNumber: 39,
                                             columnNumber: 15
                                         }, this),
-                                        "In the long run, my goal is to pursue advanced studies (B.S., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical and practical understanding of how intelligent systems learn and reason."
+                                        "In the near future, my goal is to pursue advanced studies (B.S., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical and practical understanding of how intelligent systems learn and reason."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
@@ -1859,7 +1859,7 @@ const Portfolio1 = ()=>{
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
                                 "data-wow-delay": ".4s",
-                                children: "Turning everyday problems into powerful software solutions that drive results and solve user problems."
+                                children: "Showcasing real-world software/programs I’ve designed, built, and shipped from concept to deployment"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/sections/portfolio/Portfolio1.js",
                                 lineNumber: 21,
@@ -2397,7 +2397,7 @@ const Skills1 = ({ type, subTitle, isNotDesc })=>{
                             isNotDesc ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
                                 "data-wow-delay": ".4s",
-                                children: "We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers."
+                                children: "Programming languages, frameworks and tools I use daily to turn ideas into working systems."
                             }, void 0, false, {
                                 fileName: "[project]/src/components/sections/skills/Skills1.js",
                                 lineNumber: 29,

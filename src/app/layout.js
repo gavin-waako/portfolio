@@ -14,8 +14,9 @@ import "./css/odometer-theme-default.css";
 import "./globals.css";
 
 export const metadata = {
-  title: "SonnyGavin.dev",
-  description: "SonnyGavin.dev",
+  title: "Gavin Waako Portfolio",
+  description:
+    "As a Computer Science student at MassBay Community College, I’m passionate about machine learning, computational theory, and the mathematical principles behind intelligent systems.",
 };
 
 export default function RootLayout({ children }) {

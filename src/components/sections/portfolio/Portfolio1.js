@@ -22,8 +22,8 @@ const Portfolio1 = () => {
               className="text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp"
               data-wow-delay=".4s"
             >
-              Turning everyday problems into powerful software solutions that
-              drive results and solve user problems.
+              Showcasing real-world software/programs I’ve designed, built, and
+              shipped from concept to deployment
             </p>
           </div>
           {/* <!-- portfolio --> */}

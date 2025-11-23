@@ -30,8 +30,8 @@ const Skills1 = ({ type, subTitle, isNotDesc }) => {
                 className="text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp"
                 data-wow-delay=".4s"
               >
-                We put your ideas and thus your wishes in the form of a unique
-                web project that inspires you and you customers.
+                Programming languages, frameworks and tools I use daily to turn
+                ideas into working systems.
               </p>
             )}
             {subTitle ? (

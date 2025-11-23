@@ -37,7 +37,7 @@ const Hero = () => {
               the mathematical principles behind intelligent systems.
               <br />
               <br />
-              In the long run, my goal is to pursue advanced studies (B.S.,
+              In the near future, my goal is to pursue advanced studies (B.S.,
               M.Sc., Ph.D.) and, through research, contribute to the deeper
               theoretical and practical understanding of how intelligent systems
               learn and reason.
