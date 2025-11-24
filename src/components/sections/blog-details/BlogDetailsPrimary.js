@@ -115,20 +115,13 @@ const BlogDetailsPrimary = ({
                                 <div className="relative z-0">
                                   <div className="relative z-10">
                                     <p className="text-white-color mb-15px">
-                                      “Welcome to our blog, where we celebrate
-                                      our achievement as an AWS SaaS Competency
-                                      Partner and share insights on how we
-                                      accomplished this significant milestone.{" "}
-                                      <br />
-                                      As businesses unlock growth opportunities
-                                      in the digital age, harnessing the power
-                                      of cloud computing has become essential.
-                                      Amazon Web Services (AWS) offers the AWS
-                                      SaaS Competency.”
+                                      “Every innovation we see today, from
+                                      life-changing apps to global tech giants,
+                                      began the same way: with a dream.”
                                     </p>
                                     <p className="text-white-color mb-2">
                                       <cite className="text-xl relative inline-block before:inline-block before:w-[35px] before:h-0.5 before:bg-primary-color before:rounded-[2px] before:relative before:-top-[6px] before:mr-15px">
-                                        Silvester Scott
+                                        Gavin Waako
                                       </cite>
                                     </p>
                                   </div>
@@ -144,19 +137,69 @@ const BlogDetailsPrimary = ({
                               </span>
                             </h3>
                             <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
-                              {desc}
+                              For me, that dream began in my third year of high
+                              school back in 2013, the dream of one day becoming
+                              a computer scientist. But life, as it often does,
+                              had its own plans.
                             </p>
                             <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
-                              {desc1}
+                              After high school, I wasn’t able to join
+                              university. I spent a year at home, working
+                              part-time in a cosmetics factory, trying to make
+                              ends meet and figure out what came next.
                             </p>
                             <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
-                              {desc2}
+                              Feeling like life had hit a dead end, I found
+                              myself drawn to theology and the Bible, spending
+                              the next three years at a Bible college exploring
+                              meaning, purpose, and the deeper questions behind
+                              life itself. Those years humbled me, shaped my
+                              character, and gave me a foundation of patience
+                              and perspective that I still carry into every
+                              challenge today.
                             </p>
                             <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
-                              Explore the transformative impact of technology on
-                              logistics management. Discuss how technologies
-                              like IoT, AI, and blockchain are reshaping the
-                              industry and improving efficiency.
+                              Still, I refused to let my 16-year-old self’s
+                              dream fade away. Through countless YouTube and
+                              Udemy tutorials, projects, and late-night
+                              debugging sessions, I taught myself to code. That
+                              determination led me to attend a software
+                              engineering bootcamp in 2021, and later to found
+                              and run my own software development agency,
+                              building full-stack web and mobile applications
+                              for clients across different industries.
+                            </p>
+                            <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
+                              Now, after so many years and what truly felt like
+                              an eternity, the long wait is finally over. This
+                              year, I began my Computer Science program at
+                              Massachusetts Bay Community College, finishing my
+                              first semester with a 3.6 GPA.
+                            </p>
+                            <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
+                              This milestone isn’t just about earning another
+                              degree; it’s the realization of a young Ugandan
+                              boy’s dream that started more than a decade ago, a
+                              dream kept alive by faith, consistency, and
+                              determination.
+                              <br />
+                              It’s living proof that even delayed dreams can
+                              still come to life when you refuse to let them
+                              die.
+                              <br />
+                              Here’s to every dreamer who starts small, stays
+                              patient, and keeps moving forward, because every
+                              great story in tech began exactly that way.
+                            </p>
+                            <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
+                              It’s living proof that even delayed dreams can
+                              still come to life when you refuse to let them
+                              die.
+                            </p>
+                            <p className="text-primary-color-light dark:text-white-color mb-15px md:mb-5">
+                              Here’s to every dreamer who starts small, stays
+                              patient, and keeps moving forward, because every
+                              great story in tech began exactly that way.
                             </p>
                           </div>
 

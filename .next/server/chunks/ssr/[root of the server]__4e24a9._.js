@@ -311,7 +311,7 @@ const __TURBOPACK__default__export__ = getBlogCategories;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"id\":1,\"title\":\"Persistence Is All You Need: My 12-Year Journey to Becoming a Computer Scientist\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-3.jpg\",\"desc\":\"Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.\",\"desc1\":\"As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency Partner program, recognizing companies with exceptional expertise in delivering Software-as-a-Service solutions on the AWS platform.\",\"desc2\":\"In this blog, we will delve into the strategies, best practices, and key factors that accelerated our business growth and earned us the prestigious AWS SaaS Competency Partner status.\",\"category\":\"Portfolio\",\"tags\":[\"Business\",\"Design\"],\"author_role\":\"admin\",\"author\":\"Gavin Waako\",\"status\":\"FREEBIES\",\"slider\":[\"/img/blog/blog-2.jpg\",\"/img/blog/blog-3.jpg\",\"/img/blog/blog-1.jpg\"],\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Dec 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"id\":1,\"title\":\"Persistence Is All You Need: My 12-Year Journey to Becoming a Computer Scientist\",\"img\":\"/img/blog/3.jpg\",\"detailsImg\":\"/img/blog/blog-3.jpg\",\"smallImg\":\"/img/blog/post-thumb-3.jpg\",\"desc\":\"I’ve dreamt of the day I’d make this post, a day that, for the longest time, felt like eternity. There were moments I wondered if it would ever come, yet something in me refused to let go of that dream.\",\"desc1\":\"\",\"desc2\":\"\",\"category\":\"Portfolio\",\"tags\":[\"Business\",\"Design\"],\"author_role\":\"admin\",\"author\":\"Gavin Waako\",\"status\":\"FREEBIES\",\"slider\":[\"/img/blog/blog-2.jpg\",\"/img/blog/blog-3.jpg\",\"/img/blog/blog-1.jpg\"],\"blogTopList\":[{\"iconName\":\"fa-light fa-user\",\"name\":\"Admin\",\"path\":\"#\"},{\"iconName\":\"fa-light fa-calendar-days\",\"name\":\"Dec 01, 2022\"},{\"iconName\":\"fa-light fa-comments\",\"name\":\"Comment\",\"path\":\"#\"}],\"comments\":[{\"authorName\":\"Jane Doe\",\"img\":\"/img/blog/user-1.jpg\",\"date\":\"January 3, 2024\",\"smallImg\":\"\",\"desc\":\"England dotted with a lush, green landscape, rustic villages and throbbing with humanity. South Asian country that has plenty to offer to visitors with its diverse wildlife.\",\"replies\":[{\"authorName\":\"Fred Bloggs\",\"img\":\"/img/blog/user-2.jpg\",\"date\":\"February 3, 2024\",\"smallImg\":\"\",\"desc\":\"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here making it look like readable English.\"},{\"authorName\":\"Jane Bloggs\",\"img\":\"/img/blog/user-3.jpg\",\"date\":\"January 13, 2024\",\"smallImg\":\"\",\"desc\":\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account\"}]},{\"authorName\":\"Themedemos\",\"img\":\"/img/blog/user-4.jpg\",\"date\":\"January 20, 2024\",\"smallImg\":\"\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage you need to be sure there isn't anything embarrassing hidden in the middle of text. All the\"}]}]"));}}),
 "[project]/src/libs/getBlogs.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -957,17 +957,8 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                             className: "text-white-color mb-15px",
-                                                                                            children: [
-                                                                                                "“Welcome to our blog, where we celebrate our achievement as an AWS SaaS Competency Partner and share insights on how we accomplished this significant milestone.",
-                                                                                                " ",
-                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                                                                    fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                                    lineNumber: 122,
-                                                                                                    columnNumber: 39
-                                                                                                }, this),
-                                                                                                "As businesses unlock growth opportunities in the digital age, harnessing the power of cloud computing has become essential. Amazon Web Services (AWS) offers the AWS SaaS Competency.”"
-                                                                                            ]
-                                                                                        }, void 0, true, {
+                                                                                            children: "“Every innovation we see today, from life-changing apps to global tech giants, began the same way: with a dream.”"
+                                                                                        }, void 0, false, {
                                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
                                                                                             lineNumber: 117,
                                                                                             columnNumber: 37
@@ -976,15 +967,15 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                             className: "text-white-color mb-2",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("cite", {
                                                                                                 className: "text-xl relative inline-block before:inline-block before:w-[35px] before:h-0.5 before:bg-primary-color before:rounded-[2px] before:relative before:-top-[6px] before:mr-15px",
-                                                                                                children: "Silvester Scott"
+                                                                                                children: "Gavin Waako"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                                lineNumber: 130,
+                                                                                                lineNumber: 123,
                                                                                                 columnNumber: 39
                                                                                             }, this)
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                            lineNumber: 129,
+                                                                                            lineNumber: 122,
                                                                                             columnNumber: 37
                                                                                         }, this)
                                                                                     ]
@@ -1022,50 +1013,96 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: title
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 142,
+                                                                                lineNumber: 135,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 141,
+                                                                            lineNumber: 134,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                             className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
-                                                                            children: desc
+                                                                            children: "For me, that dream began in my third year of high school back in 2013, the dream of one day becoming a computer scientist. But life, as it often does, had its own plans."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 146,
+                                                                            lineNumber: 139,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                             className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
-                                                                            children: desc1
+                                                                            children: "After high school, I wasn’t able to join university. I spent a year at home, working part-time in a cosmetics factory, trying to make ends meet and figure out what came next."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 149,
+                                                                            lineNumber: 145,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                             className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
-                                                                            children: desc2
+                                                                            children: "Feeling like life had hit a dead end, I found myself drawn to theology and the Bible, spending the next three years at a Bible college exploring meaning, purpose, and the deeper questions behind life itself. Those years humbled me, shaped my character, and gave me a foundation of patience and perspective that I still carry into every challenge today."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 152,
+                                                                            lineNumber: 151,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                             className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
-                                                                            children: "Explore the transformative impact of technology on logistics management. Discuss how technologies like IoT, AI, and blockchain are reshaping the industry and improving efficiency."
+                                                                            children: "Still, I refused to let my 16-year-old self’s dream fade away. Through countless YouTube and Udemy tutorials, projects, and late-night debugging sessions, I taught myself to code. That determination led me to attend a software engineering bootcamp in 2021, and later to found and run my own software development agency, building full-stack web and mobile applications for clients across different industries."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 155,
+                                                                            lineNumber: 161,
+                                                                            columnNumber: 29
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
+                                                                            children: "Now, after so many years and what truly felt like an eternity, the long wait is finally over. This year, I began my Computer Science program at Massachusetts Bay Community College, finishing my first semester with a 3.6 GPA."
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                            lineNumber: 172,
+                                                                            columnNumber: 29
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
+                                                                            children: [
+                                                                                "This milestone isn’t just about earning another degree; it’s the realization of a young Ugandan boy’s dream that started more than a decade ago, a dream kept alive by faith, consistency, and determination.",
+                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                                    fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                                    lineNumber: 185,
+                                                                                    columnNumber: 31
+                                                                                }, this),
+                                                                                "It’s living proof that even delayed dreams can still come to life when you refuse to let them die.",
+                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                                    fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                                    lineNumber: 189,
+                                                                                    columnNumber: 31
+                                                                                }, this),
+                                                                                "Here’s to every dreamer who starts small, stays patient, and keeps moving forward, because every great story in tech began exactly that way."
+                                                                            ]
+                                                                        }, void 0, true, {
+                                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                            lineNumber: 179,
+                                                                            columnNumber: 29
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
+                                                                            children: "It’s living proof that even delayed dreams can still come to life when you refuse to let them die."
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                            lineNumber: 194,
+                                                                            columnNumber: 29
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-primary-color-light dark:text-white-color mb-15px md:mb-5",
+                                                                            children: "Here’s to every dreamer who starts small, stays patient, and keeps moving forward, because every great story in tech began exactly that way."
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
+                                                                            lineNumber: 199,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 140,
+                                                                    lineNumber: 133,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1078,12 +1115,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: "Key Points"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 166,
+                                                                                lineNumber: 209,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 165,
+                                                                            lineNumber: 208,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1095,12 +1132,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                         children: "IoT and Real-Time Tracking"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                        lineNumber: 172,
+                                                                                        lineNumber: 215,
                                                                                         columnNumber: 33
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 171,
+                                                                                    lineNumber: 214,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1110,12 +1147,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                         children: "Artificial Intelligence in Route Optimization and Predictive Analytics"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                        lineNumber: 177,
+                                                                                        lineNumber: 220,
                                                                                         columnNumber: 33
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 176,
+                                                                                    lineNumber: 219,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1125,12 +1162,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                         children: "Blockchain for Enhanced Transparency and Security"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                        lineNumber: 183,
+                                                                                        lineNumber: 226,
                                                                                         columnNumber: 33
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 182,
+                                                                                    lineNumber: 225,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1140,24 +1177,24 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                         children: "Warehouse Automation and Robotics"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                        lineNumber: 189,
+                                                                                        lineNumber: 232,
                                                                                         columnNumber: 33
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 188,
+                                                                                    lineNumber: 231,
                                                                                     columnNumber: 31
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 170,
+                                                                            lineNumber: 213,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 164,
+                                                                    lineNumber: 207,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1169,12 +1206,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: "Conclusion"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 198,
+                                                                                lineNumber: 241,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 197,
+                                                                            lineNumber: 240,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1182,7 +1219,7 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                             children: "Emphasize the long-term benefits of integrating sustainable practices into logistics operations, both for the planet and a company's reputation."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 202,
+                                                                            lineNumber: 245,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1190,13 +1227,13 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                             children: "These outlines can be expanded into comprehensive blog posts, each providing valuable insights and information on the respective topics."
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 207,
+                                                                            lineNumber: 250,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 196,
+                                                                    lineNumber: 239,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
@@ -1244,17 +1281,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             children: "Tags:"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 225,
+                                                            lineNumber: 268,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 224,
+                                                        lineNumber: 267,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                    lineNumber: 223,
+                                                    lineNumber: 266,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1268,28 +1305,28 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                     children: tag
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 235,
+                                                                    lineNumber: 278,
                                                                     columnNumber: 31
                                                                 }, this)
                                                             }, 5000000 + idx, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 234,
+                                                                lineNumber: 277,
                                                                 columnNumber: 29
                                                             }, this)) : ""
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 231,
+                                                        lineNumber: 274,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                    lineNumber: 230,
+                                                    lineNumber: 273,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 222,
+                                            lineNumber: 265,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1304,17 +1341,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                 className: "fa-brands fa-facebook-f"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 255,
+                                                                lineNumber: 298,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 251,
+                                                            lineNumber: 294,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 250,
+                                                        lineNumber: 293,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1325,39 +1362,39 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                 className: "fa-brands fa-linkedin-in"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 263,
+                                                                lineNumber: 306,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 259,
+                                                            lineNumber: 302,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 258,
+                                                        lineNumber: 301,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {}, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 266,
+                                                        lineNumber: 309,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 249,
+                                                lineNumber: 292,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 248,
+                                            lineNumber: 291,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 220,
+                                    lineNumber: 263,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1382,17 +1419,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                         height: 2000
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 283,
+                                                                        lineNumber: 326,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 279,
+                                                                    lineNumber: 322,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 278,
+                                                                lineNumber: 321,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1407,20 +1444,20 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                     className: "fa-regular fa-angle-double-left"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 298,
+                                                                                    lineNumber: 341,
                                                                                     columnNumber: 33
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: " previous"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                    lineNumber: 299,
+                                                                                    lineNumber: 342,
                                                                                     columnNumber: 33
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 294,
+                                                                            lineNumber: 337,
                                                                             columnNumber: 31
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1430,35 +1467,35 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$libs$2f$sliceText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])(prevBlogTitle, 45)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 302,
+                                                                                lineNumber: 345,
                                                                                 columnNumber: 33
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 301,
+                                                                            lineNumber: 344,
                                                                             columnNumber: 31
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 293,
+                                                                    lineNumber: 336,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 292,
+                                                                lineNumber: 335,
                                                                 columnNumber: 27
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 277,
+                                                        lineNumber: 320,
                                                         columnNumber: 25
                                                     }, this)
                                                 }, void 0, false) : ""
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 274,
+                                                lineNumber: 317,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1478,20 +1515,20 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                                 children: " Next"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 327,
+                                                                                lineNumber: 370,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                 className: "fa-regular fa-angle-double-right"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                                lineNumber: 328,
+                                                                                lineNumber: 371,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 323,
+                                                                        lineNumber: 366,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1501,23 +1538,23 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                             children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$libs$2f$sliceText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])(nextBlogTitle, 45)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                            lineNumber: 331,
+                                                                            lineNumber: 374,
                                                                             columnNumber: 31
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                        lineNumber: 330,
+                                                                        lineNumber: 373,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 322,
+                                                                lineNumber: 365,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 321,
+                                                            lineNumber: 364,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1532,39 +1569,39 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                     height: 2000
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 345,
+                                                                    lineNumber: 388,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 341,
+                                                                lineNumber: 384,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 340,
+                                                            lineNumber: 383,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                    lineNumber: 320,
+                                                    lineNumber: 363,
                                                     columnNumber: 23
                                                 }, this) : ""
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 318,
+                                                lineNumber: 361,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                        lineNumber: 272,
+                                        lineNumber: 315,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 271,
+                                    lineNumber: 314,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1577,25 +1614,25 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                 children: "3 Comments"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 366,
+                                                lineNumber: 409,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 365,
+                                            lineNumber: 408,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$blog$2d$details$2f$BlogComments$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             comments: comments
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 371,
+                                            lineNumber: 414,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 364,
+                                    lineNumber: 407,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1609,12 +1646,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                 children: "Leave a Reply"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 377,
+                                                lineNumber: 420,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 376,
+                                            lineNumber: 419,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1622,7 +1659,7 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                             children: "I design and code beautifully simple things and i love what i do. Just simple like that!"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 381,
+                                            lineNumber: 424,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -1636,12 +1673,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 390,
+                                                            lineNumber: 433,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 389,
+                                                        lineNumber: 432,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1651,12 +1688,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 398,
+                                                            lineNumber: 441,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 397,
+                                                        lineNumber: 440,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1668,17 +1705,17 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                 className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                lineNumber: 407,
+                                                                lineNumber: 450,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 406,
+                                                            lineNumber: 449,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 405,
+                                                        lineNumber: 448,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1690,12 +1727,12 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             className: "text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-light-color dark:bg-primary-color-light focus:border-primary-color rounded-lg outline-none focus:outline-none transition-all duration-300 placeholder:text-gray-color leading-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 415,
+                                                            lineNumber: 458,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 414,
+                                                        lineNumber: 457,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1709,25 +1746,25 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                                     id: "agreetocomment"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 427,
+                                                                    lineNumber: 470,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "Save my name, email, and website in this browser for the next time I comment."
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                                    lineNumber: 428,
+                                                                    lineNumber: 471,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 423,
+                                                            lineNumber: 466,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 422,
+                                                        lineNumber: 465,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1738,29 +1775,29 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                                                             children: "Post Comment"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                            lineNumber: 435,
+                                                            lineNumber: 478,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                        lineNumber: 434,
+                                                        lineNumber: 477,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                                lineNumber: 387,
+                                                lineNumber: 430,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                            lineNumber: 386,
+                                            lineNumber: 429,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                                    lineNumber: 375,
+                                    lineNumber: 418,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -1771,7 +1808,7 @@ const BlogDetailsPrimary = ({ prevId, nextId, blog, pervblog, nextblog, isPrevBl
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$sidebar$2f$BlogSidebar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/components/sections/blog-details/BlogDetailsPrimary.js",
-                            lineNumber: 447,
+                            lineNumber: 490,
                             columnNumber: 13
                         }, this)
                     ]
