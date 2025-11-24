@@ -38,7 +38,7 @@ const Hero = () => {
               <br />
               <br />
               In the near future, my goal is to pursue advanced studies (B.Sc.,
-              M.Sc., Ph.D.) and, through research, contribute to a deeper
+              M.Sc., Ph.D.) and, through research, contribute to the deeper
               theoretical and practical understanding of how computer systems
               can be built to learn to reason.
             </p>

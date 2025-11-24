@@ -1199,7 +1199,7 @@ const Hero = ()=>{
                                             lineNumber: 39,
                                             columnNumber: 15
                                         }, this),
-                                        "In the near future, my goal is to pursue advanced studies (B.Sc., M.Sc., Ph.D.) and, through research, contribute to a deeper theoretical and practical understanding of how computer systems can be built to learn to reason."
+                                        "In the near future, my goal is to pursue advanced studies (B.Sc., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical and practical understanding of how computer systems can be built to learn to reason."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
@@ -1840,7 +1840,7 @@ const __TURBOPACK__default__export__ = Portfolio1;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"title\":\"Professional Work Experience\",\"iconName\":\"flaticon-recommendation\",\"resumeItems\":[{\"date\":\"November 2021 - December 2024\",\"title\":\"Founder & Full-stack Web/Mobile Software Developer\",\"desc\":\"Beluga Tech Ltd., Kampala, UG\"},{\"date\":\"January 2018 - December 2020\",\"title\":\"Social Media Manager\",\"desc\":\"UKWAZI Makadamia & African Christian College, Eswatini\"}]},{\"title\":\"Education & Certifications\",\"iconName\":\"flaticon-graduation-cap\",\"resumeItems\":[{\"date\":\"June 2025\",\"title\":\"1x AWS Certified (Cloud Practitioner)\",\"desc\":\"Boston\"},{\"date\":\"January 2025 - Present\",\"title\":\"A.S. in Computer Science\",\"desc\":\"MassBay Community College, Boston\"},{\"date\":\"2022\",\"title\":\"100 Days of Code: The Complete Python Pro Bootcamp\",\"desc\":\"Dr. Angela Yu, Developer and Lead Instructor\"},{\"date\":\"2021\",\"title\":\"The Complete 2024 Web Development Bootcamp\",\"desc\":\"Dr. Angela Yu, Developer and Lead Instructor\"},{\"date\":\"2018 - 2020\",\"title\":\"Bachelor of Theology (Major in Counselling)\",\"desc\":\"African Christian College, Eswatini\"}]}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"title\":\"Professional Work Experience\",\"iconName\":\"flaticon-recommendation\",\"resumeItems\":[{\"date\":\"November 2021 - December 2024\",\"title\":\"Founder & Full-stack Web/Mobile Software Developer\",\"desc\":\"Beluga Tech Ltd., Kampala, UG\"},{\"date\":\"January 2018 - December 2020\",\"title\":\"Social Media Manager\",\"desc\":\"UKWAZI Makadamia & African Christian College, Eswatini\"}]},{\"title\":\"Education & Certifications\",\"iconName\":\"flaticon-graduation-cap\",\"resumeItems\":[{\"date\":\"January 2025 - Present\",\"title\":\"A.S. in Computer Science\",\"desc\":\"MassBay Community College, Boston\"},{\"date\":\"2022\",\"title\":\"100 Days of Code: The Complete Python Pro Bootcamp\",\"desc\":\"Dr. Angela Yu, Developer and Lead Instructor\"},{\"date\":\"2021\",\"title\":\"The Complete 2024 Web Development Bootcamp\",\"desc\":\"Dr. Angela Yu, Developer and Lead Instructor\"},{\"date\":\"2018 - 2020\",\"title\":\"Bachelor of Theology (Major in Counselling)\",\"desc\":\"African Christian College, Eswatini\"}]}]"));}}),
 "[project]/src/libs/getResume.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -2157,7 +2157,7 @@ const Services1 = ()=>{
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
                             "data-wow-delay": ".4s",
-                            children: "Java Programming I & II, Python Programming, Data Structures, Introduction to Computation (Discrete Mathematics), Calculus I & II, Systems Programming with C, Computer Architecture and Assembly Language, Intro to Computer Science, Critical Thinking, Pre-Calculus Mathematics, and Pre-Calculus CoreQ."
+                            children: "Java Programming I, Python Programming, Data Structures, Introduction to Computation (Discrete Mathematics), Calculus I, Systems Programming with C, Computer Architecture and Assembly Language, Intro to Computer Science, Pre-Calculus Mathematics, and Pre-Calculus CoreQ."
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/services/Services1.js",
                             lineNumber: 15,
