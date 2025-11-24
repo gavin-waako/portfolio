@@ -7,14 +7,5 @@
     "logoImg": "/img/testimonials/logo/1.png",
     "logoImgLight": "/img/testimonials/logo/1-dark.png",
     "desc": "Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester."
-  },
-  {
-    "id": 2,
-    "authorName": "President's List",
-    "authorDesig": "Issued by Massachusetts Bay Community College · Dec 2025",
-    "img": "/img/testimonials/user/2.jpg",
-    "logoImg": "/img/testimonials/logo/2.png",
-    "logoImgLight": "/img/testimonials/logo/2-dark.png",
-    "desc": "Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Fall 2025 semester."
   }
 ]
