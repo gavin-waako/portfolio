@@ -41,7 +41,7 @@ const Navbar = ({ isActiveMobileMenu, setIsActiveMobileMenu, isSticky }) => {
         ) : (
           <li>
             {isResumeBtn ? (
-              <ButtonPrimary2 url={"#"}>Download Resume</ButtonPrimary2>
+              <ButtonPrimary2 url={"#"}>View My Resume</ButtonPrimary2>
             ) : (
               <ButtonPrimary url={isIndexPage ? "#contact" : "/#contact"}>
                 Contact Me!

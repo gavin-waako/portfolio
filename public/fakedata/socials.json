@@ -6,5 +6,13 @@
   {
     "iconName": "fa-brands fa-github",
     "path": "https://github.com/gavin-waako"
+  },
+  {
+    "iconName": "fa-brands fa-hugging-face",
+    "path": "https://huggingface.co/gavinwaako"
+  },
+  {
+    "iconName": "fa-brands fa-medium",
+    "path": "https://medium.com/@gavinwaako"
   }
 ]

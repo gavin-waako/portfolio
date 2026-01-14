@@ -18,8 +18,8 @@ const Contact1 = () => {
                       className="text-primary-color-light dark:text-body-color wow fadeInLeft"
                       data-wow-delay=".4s"
                     >
-                      Have an opportunity and want to discuss, don't hesitate.
-                      Send me a message!
+                      Have an opportunity and want to discuss, don&apos;t
+                      hesitate. Send me a message!
                     </p>
                   </div>
                   {/* <!-- inputs --> */}

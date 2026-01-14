@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="hidded md:grid md:grid-cols-2 md:items-center gap-30px">
           <div>
             <h4 className="text-seondary-color dark:text-body-color text-size-22 md:text-size-25 lg:text-4xl lg:leading-1.5 font-bold mb-1.5 xl:mb-10px">
-              I&apos;m Gavin Waako,
+              Hey, I&apos;m Gavin Waako,
             </h4>
             <h1 className="text-size-35 md:text-size-38 lg:text-size-50 xl:text-6xl 2xl:text-size-65 bg-gradient-text-light dark:bg-gradient-text bg-clip-text xl:leading-1.2 text-transparent mb-15px">
               A Software Engineer
@@ -33,20 +33,25 @@ const Hero = () => {
               />
             </div>
             <p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-              I’m passionate about machine learning, computational theory, and
-              the mathematical principles behind intelligent systems.
+              I’m a second year Computer Science student at Massachusetts Bay
+              Community College. I'm passionate about the mathematical
+              principles behind intelligent systems, focusing on the
+              intersection of data science, machine learning and computational
+              theory.
               <br />
               <br />
-              In the near future, my goal is to pursue advanced studies (B.Sc.,
-              M.Sc., Ph.D.) and, through research, contribute to the deeper
-              theoretical and practical understanding of how computer systems
-              can be built to learn to reason.
+              These days, I spend most of my time diving deep into the
+              architecture and implementation of modern ML technologies such as
+              LLMs, and GenAI.
+              <br />
+              <br />
+              Beyond coding, I enjoy exploring the city and staying active.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">
               <div>
                 <ButtonSeondary url="/resume.pdf">
-                  Download Resume{" "}
+                  View My Resume{" "}
                   <i className="flaticon-download ml-0.5 text-size-17"></i>
                 </ButtonSeondary>
               </div>

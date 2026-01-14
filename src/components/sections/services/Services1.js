@@ -16,11 +16,12 @@ const Services1 = () => {
               className="text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp"
               data-wow-delay=".4s"
             >
-              Java Programming I, Python Programming, Data Structures,
+              Java Programming I & II, Python Programming, Data Structures,
               Introduction to Computation (Discrete Mathematics), Calculus I,
               Systems Programming with C, Computer Architecture and Assembly
-              Language, Intro to Computer Science, Pre-Calculus Mathematics, and
-              Pre-Calculus CoreQ.
+              Language, Intro to Computer Science, Web Site Development,
+              Critical Thinking, English Composition, Pre-Calculus Mathematics,
+              and Pre-Calculus CoreQ.
             </p>
           </div>
         </div>

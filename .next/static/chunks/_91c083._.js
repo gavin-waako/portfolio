@@ -1090,7 +1090,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"iconName\":\"fa-brands fa-linkedin-in\",\"path\":\"https://www.linkedin.com/in/gavin-waako\"},{\"iconName\":\"fa-brands fa-github\",\"path\":\"https://github.com/gavin-waako\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"iconName\":\"fa-brands fa-linkedin-in\",\"path\":\"https://www.linkedin.com/in/gavin-waako\"},{\"iconName\":\"fa-brands fa-github\",\"path\":\"https://github.com/gavin-waako\"},{\"iconName\":\"fa-brands fa-hugging-face\",\"path\":\"https://huggingface.co/gavinwaako\"},{\"iconName\":\"fa-brands fa-medium\",\"path\":\"https://medium.com/@gavinwaako\"}]"));}}),
 "[project]/src/libs/getSocials.js [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -1133,12 +1133,13 @@ const Socials = ()=>{
             children: socials?.length ? socials?.map(({ iconName, path }, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         href: path,
+                        target: "_blank",
                         className: "text-primary-color hover:text-body-color border border-primary-color w-35px h-35px rounded-full flex items-center justify-center overflow-hidden relative z-0 after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-full after:h-full after:scale-0 after:bg-primary-color hover:after:scale-105 after:transition-all after:duration-300 after:z-[-1] after:rounded-full",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                             className: iconName
                         }, void 0, false, {
                             fileName: "[project]/src/components/shared/socials/Socials.js",
-                            lineNumber: 17,
+                            lineNumber: 18,
                             columnNumber: 19
                         }, this)
                     }, void 0, false, {
@@ -1227,7 +1228,7 @@ const Hero = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                     className: "text-seondary-color dark:text-body-color text-size-22 md:text-size-25 lg:text-4xl lg:leading-1.5 font-bold mb-1.5 xl:mb-10px",
-                                    children: "I'm Gavin Waako,"
+                                    children: "Hey, I'm Gavin Waako,"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
                                     lineNumber: 20,
@@ -1262,18 +1263,29 @@ const Hero = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px",
                                     children: [
-                                        "I’m passionate about machine learning, computational theory, and the mathematical principles behind intelligent systems.",
+                                        "I’m a second year Computer Science student at Massachusetts Bay Community College. I'm passionate about the mathematical principles behind intelligent systems, focusing on the intersection of data science, machine learning and computational theory.",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/src/components/sections/heros/Hero.js",
-                                            lineNumber: 38,
+                                            lineNumber: 41,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/src/components/sections/heros/Hero.js",
-                                            lineNumber: 39,
+                                            lineNumber: 42,
                                             columnNumber: 15
                                         }, this),
-                                        "In the near future, my goal is to pursue advanced studies (B.Sc., M.Sc., Ph.D.) and, through research, contribute to the deeper theoretical and practical understanding of how computer systems can be built to learn to reason."
+                                        "These days, I spend most of my time diving deep into the architecture and implementation of modern ML technologies such as LLMs, and GenAI.",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/src/components/sections/heros/Hero.js",
+                                            lineNumber: 46,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/src/components/sections/heros/Hero.js",
+                                            lineNumber: 47,
+                                            columnNumber: 15
+                                        }, this),
+                                        "Beyond coding, I enjoy exploring the city and staying active."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
@@ -1287,35 +1299,35 @@ const Hero = ()=>{
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$buttons$2f$ButtonSeondary$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 url: "/resume.pdf",
                                                 children: [
-                                                    "Download Resume",
+                                                    "View My Resume",
                                                     " ",
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                         className: "flaticon-download ml-0.5 text-size-17"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/heros/Hero.js",
-                                                        lineNumber: 50,
+                                                        lineNumber: 55,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/sections/heros/Hero.js",
-                                                lineNumber: 48,
+                                                lineNumber: 53,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/heros/Hero.js",
-                                            lineNumber: 47,
+                                            lineNumber: 52,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$socials$2f$Socials$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                             fileName: "[project]/src/components/sections/heros/Hero.js",
-                                            lineNumber: 54,
+                                            lineNumber: 59,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/heros/Hero.js",
-                                    lineNumber: 46,
+                                    lineNumber: 51,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -1334,12 +1346,12 @@ const Hero = ()=>{
                                 className: "rounded-38px border-2 border-seondary-color hover:border-primary-color rotate-[4.29deg] hover:rotate-0 transition-all duration-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/sections/heros/Hero.js",
-                                lineNumber: 58,
+                                lineNumber: 63,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/heros/Hero.js",
-                            lineNumber: 57,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, this)
                     ]
@@ -1664,7 +1676,7 @@ const filterButtons = [
         dataFilter: ".mobile"
     },
     {
-        name: "Machine Learning",
+        name: "Data Science / ML",
         dataFilter: ".machine-learning"
     }
 ];
@@ -2299,7 +2311,7 @@ const Services1 = ()=>{
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
                             "data-wow-delay": ".4s",
-                            children: "Java Programming I, Python Programming, Data Structures, Introduction to Computation (Discrete Mathematics), Calculus I, Systems Programming with C, Computer Architecture and Assembly Language, Intro to Computer Science, Pre-Calculus Mathematics, and Pre-Calculus CoreQ."
+                            children: "Java Programming I & II, Python Programming, Data Structures, Introduction to Computation (Discrete Mathematics), Calculus I, Systems Programming with C, Computer Architecture and Assembly Language, Intro to Computer Science, Web Site Development, Critical Thinking, English Composition, Pre-Calculus Mathematics, and Pre-Calculus CoreQ."
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/services/Services1.js",
                             lineNumber: 15,
@@ -2764,7 +2776,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"id\":1,\"authorName\":\"Dean's List\",\"authorDesig\":\"Issued by Massachusetts Bay Community College · Jun 2025\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/1.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester.\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"id\":1,\"authorName\":\"Dean's List\",\"authorDesig\":\"Issued by Massachusetts Bay Community College · Jun 2025\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/1.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester.\"},{\"id\":2,\"authorName\":\"Phi Theta Kappa Honor Society\",\"authorDesig\":\"Nominated by Massachusetts Bay Community College · Jan 2026\",\"img\":\"/img/testimonials/user/1.jpg\",\"logoImg\":\"/img/testimonials/logo/ptk.png\",\"logoImgLight\":\"/img/testimonials/logo/1-dark.png\",\"desc\":\"Officially invited to join the international honor society for community colleges in recognition of outstanding academic success.\"}]"));}}),
 "[project]/src/libs/getTestimonials.js [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -3782,7 +3794,7 @@ const Navbar = ({ isActiveMobileMenu, setIsActiveMobileMenu, isSticky })=>{
                 headerType === 3 ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                     children: isResumeBtn ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$buttons$2f$ButtonPrimary2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         url: "#",
-                        children: "Download Resume"
+                        children: "View My Resume"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/header/Navbar.js",
                         lineNumber: 44,
