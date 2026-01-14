@@ -44,7 +44,7 @@ const Footer = () => {
                     href="#services"
                     className="text-size-15 font-medium text-white-color capitalize py-10px md:py-15px lg:py-25px 2xl:py-30px relative z-0 after:w-0 after:h-0.5 after:bg-gradient-primary after:absolute after:right-0 hover:after:left-0 after:bottom-[25px] after:transition-all after:duration-500 group-hover:after:w-full"
                   >
-                    Services
+                    Courses Done
                   </Link>
                 </li>
                 <li className="nav_item group relative">
@@ -52,7 +52,7 @@ const Footer = () => {
                     href="#portfolio"
                     className="text-size-15 font-medium text-white-color capitalize py-10px md:py-15px lg:py-25px 2xl:py-30px relative z-0 after:w-0 after:h-0.5 after:bg-gradient-primary after:absolute after:right-0 hover:after:left-0 after:bottom-[25px] after:transition-all after:duration-500 group-hover:after:w-full"
                   >
-                    Portfolios
+                    Featured Projects
                   </Link>
                 </li>
 
@@ -73,7 +73,7 @@ const Footer = () => {
                   : "text-gray-color"
               } whitespace-nowrap text-sm md:text-base mt-5`}
             >
-              © 2025 All rights reserved by{" "}
+              © 2026 All rights reserved by{" "}
               <Link
                 href="/"
                 className={`${

@@ -33,7 +33,7 @@ const Hero = () => {
               />
             </div>
             <p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-              I’m a second year Computer Science student at Massachusetts Bay
+              & sophomore Computer Science student at Massachusetts Bay
               Community College. I'm passionate about the mathematical
               principles behind intelligent systems, focusing on the
               intersection of data science, machine learning and computational
@@ -42,7 +42,7 @@ const Hero = () => {
               <br />
               These days, I spend most of my time diving deep into the
               architecture and implementation of modern ML technologies such as
-              LLMs, and GenAI.
+              Transformers, LSTMs, LLMs etc.
               <br />
               <br />
               Beyond coding, I enjoy exploring the city and staying active.
