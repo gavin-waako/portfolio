@@ -1,18 +1,20 @@
-[00:00:02.670] Server  LOG     ✓ Ready in 1796ms
-[00:00:03.418] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:03.020] Server  LOG     ✓ Ready in 2.1s
+[00:00:12.896] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:06.084] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:15.469] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:06.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:07.373] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:15.519] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:15.860] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:15.994] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -105,24 +107,14 @@ It can also happen if the client has a browser extension installed which messes 
             ...
     ...
 
-[00:00:07.704] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:16.578] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:00:16.798] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:00:35.584] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:07.725] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:00:09.535] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
-[00:00:09.583] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1-dark.png" "received" null
-[00:10:38.086] Server  LOG     ✓ Compiled in 78ms
-[00:10:47.964] Server  LOG     ✓ Compiled in 152ms
-[00:10:53.891] Server  LOG     ✓ Compiled in 104ms
-[00:11:05.830] Server  LOG     ✓ Compiled in 121ms
-[00:11:27.174] Server  LOG     ✓ Compiled in 90ms
-[00:17:12.295] Server  LOG     ✓ Compiled in 1839ms
-[00:17:16.449] Server  LOG     ✓ Compiled in 252ms
+[00:00:36.151] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
+[00:01:09.094] Server  LOG     ✓ Compiled in 188ms
+[00:02:07.469] Server  LOG     ✓ Compiled in 238ms
