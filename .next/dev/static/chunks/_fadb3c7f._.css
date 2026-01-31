@@ -32985,6 +32985,10 @@ img, video {
   line-height: 1;
 }
 
+.leading-tight {
+  line-height: 1.25;
+}
+
 .tracking-1px {
   letter-spacing: 1px;
 }

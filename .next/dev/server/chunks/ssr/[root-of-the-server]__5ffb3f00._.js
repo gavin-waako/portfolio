@@ -2160,7 +2160,7 @@ const __TURBOPACK__default__export__ = Services1;
 }),
 "[project]/public/fakedata/skills.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"name":"Java","img":"/img/icons/java.png"},{"name":"Spring Boot","img":"/img/icons/spring-boot.png"},{"name":"Python","img":"/img/icons/python.png"},{"name":"PyTorch","img":"/img/icons/pytorch.png"},{"name":"scikit-learn","img":"/img/icons/scikit-learn.png"},{"name":"C++","img":"/img/icons/c++.png"},{"name":"TypeScript","img":"/img/icons/typescript.png","perchant":"85%"},{"name":"JavaScript","img":"/img/icons/js.png"},{"name":"React/React Native","img":"/img/icons/react.png"},{"name":"NextJS","img":"/img/icons/nextjs.png"},{"name":"MySQL","img":"/img/icons/mysql.png"},{"name":"PostgreSQL","img":"/img/icons/postgresql.png"},{"name":"MongoDB","img":"/img/icons/mongodb.png"},{"name":"NodeJS","img":"/img/icons/nodejs.png"},{"name":"1x AWS Cloud Practitioner","img":"/img/icons/aws.png"},{"name":"Git/GitHub","img":"/img/icons/git-github.png"},{"name":"WordPress","img":"/img/icons/wp.png"},{"name":"Docker","img":"/img/icons/docker.png"}]);}),
+__turbopack_context__.v([{"name":"Java","img":"/img/icons/java.png"},{"name":"Spring Boot","img":"/img/icons/spring-boot.png"},{"name":"Python","img":"/img/icons/python.png"},{"name":"PyTorch","img":"/img/icons/pytorch.png"},{"name":"scikit-learn","img":"/img/icons/scikit-learn.png"},{"name":"C++","img":"/img/icons/c++.png"},{"name":"TypeScript","img":"/img/icons/typescript.png"},{"name":"JavaScript","img":"/img/icons/js.png"},{"name":"React/React Native","img":"/img/icons/react.png"},{"name":"NextJS","img":"/img/icons/nextjs.png"},{"name":"MySQL","img":"/img/icons/mysql.png"},{"name":"PostgreSQL","img":"/img/icons/postgresql.png"},{"name":"MongoDB","img":"/img/icons/mongodb.png"},{"name":"NodeJS","img":"/img/icons/nodejs.png"},{"name":"1x AWS Cloud Practitioner","img":"/img/icons/aws.png"},{"name":"Git/GitHub","img":"/img/icons/git-github.png"},{"name":"WordPress","img":"/img/icons/wp.png"},{"name":"Docker","img":"/img/icons/docker.png"}]);}),
 "[project]/src/libs/getSkills.js [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -2299,6 +2299,76 @@ const Skills1 = ({ type, subTitle, isNotDesc })=>{
                     }, void 0, false, {
                         fileName: "[project]/src/components/sections/skills/Skills1.js",
                         lineNumber: 49,
+                        columnNumber: 11
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: `text-center flex flex-col items-center mb-10 md:mb-50px ${type === 3 ? "xl:mb-60px" : ""}`,
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$shared$2f$headings$2f$HeadingPrimary$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                className: "mb-0 py-10",
+                                children: "Technical Skills"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 84,
+                                columnNumber: 13
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            isNotDesc ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
+                                "data-wow-delay": ".4s",
+                                children: "Programming languages, frameworks and tools I use daily to turn ideas into working systems."
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 90,
+                                columnNumber: 15
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            subTitle ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: " text-seondary-color dark:text-white-color uppercase mt-15px wow fadeInUp",
+                                "data-wow-delay": "0.5s",
+                                children: subTitle
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 99,
+                                columnNumber: 15
+                            }, ("TURBOPACK compile-time value", void 0)) : ""
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/sections/skills/Skills1.js",
+                        lineNumber: 79,
+                        columnNumber: 11
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: `text-center flex flex-col items-center mb-10 md:mb-50px ${type === 3 ? "xl:mb-60px" : ""}`,
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Hea, {
+                                className: "mb-0 py-10",
+                                children: "Technical Skills"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 115,
+                                columnNumber: 13
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            isNotDesc ? "" : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-primary-color-light dark:text-body-color max-w-700px wow fadeInUp",
+                                "data-wow-delay": ".4s",
+                                children: "Programming languages, frameworks and tools I use daily to turn ideas into working systems."
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 121,
+                                columnNumber: 15
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            subTitle ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: " text-seondary-color dark:text-white-color uppercase mt-15px wow fadeInUp",
+                                "data-wow-delay": "0.5s",
+                                children: subTitle
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/sections/skills/Skills1.js",
+                                lineNumber: 130,
+                                columnNumber: 15
+                            }, ("TURBOPACK compile-time value", void 0)) : ""
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/sections/skills/Skills1.js",
+                        lineNumber: 110,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -2565,7 +2635,7 @@ const __TURBOPACK__default__export__ = TestimonialsCard;
 }),
 "[project]/public/fakedata/testimonials.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"authorName":"Dean's List","authorDesig":"Issued by Massachusetts Bay Community College · Jun 2025","img":"/img/testimonials/user/1.jpg","logoImg":"/img/testimonials/logo/1.png","logoImgLight":"/img/testimonials/logo/1-dark.png","desc":"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester."},{"id":2,"authorName":"Phi Theta Kappa Honor Society","authorDesig":"Nominated by Massachusetts Bay Community College · Jan 2026","img":"/img/testimonials/user/1.jpg","logoImg":"/img/testimonials/logo/ptk.png","logoImgLight":"/img/testimonials/logo/1-dark.png","desc":"Officially invited to join the international honor society for community colleges in recognition of outstanding academic success."}]);}),
+__turbopack_context__.v([{"id":1,"authorName":"Dean's List","authorDesig":"Issued by Massachusetts Bay Community College · Jun 2025","img":"/img/testimonials/user/1.jpg","logoImg":"/img/testimonials/logo/1.png","logoImgLight":"/img/testimonials/logo/1-dark.png","desc":"Recognized for outstanding academic performance and achieving top results in the AS in Computer Science program during the Spring 2025 semester."},{"id":2,"authorName":"Phi Theta Kappa Honor Society","authorDesig":"Nominated by Massachusetts Bay Community College · Jan 2026","img":"/img/testimonials/user/1.jpg","logoImg":"/img/testimonials/logo/ptk.png","logoImgLight":"/img/testimonials/logo/1-dark.png","desc":"Officially invited to join the international honor society for community colleges in recognition of outstanding academic success."},{"id":3,"authorName":"Dean's List","authorDesig":"Issued by Massachusetts Bay Community College · Jan 2026","img":"/img/testimonials/user/1.jpg","logoImg":"/img/testimonials/logo/1.png","logoImgLight":"/img/testimonials/logo/1-dark.png","desc":"Recognized for outstanding academic performance and achieving top results in the Associate of Science in Computer Science program during the Fall 2025 semester."}]);}),
 "[project]/src/libs/getTestimonials.js [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
