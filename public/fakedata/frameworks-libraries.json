@@ -4,6 +4,18 @@
     "img": "/img/icons/pytorch.png"
   },
   {
+    "name": "pandas",
+    "img": "/img/icons/pandas.png"
+  },
+  {
+    "name": "NumPy",
+    "img": "/img/icons/numpy.png"
+  },
+  {
+    "name": "Matplotlib",
+    "img": "/img/icons/matplotlib.png"
+  },
+  {
     "name": "NextJS",
     "img": "/img/icons/nextjs.png"
   },
@@ -12,7 +24,7 @@
     "img": "/img/icons/react.png"
   },
   {
-    "name": "NodeJS",
-    "img": "/img/icons/nodejs.png"
+    "name": "Node JS / Express",
+    "img": "/img/icons/node-express.png"
   }
 ]
