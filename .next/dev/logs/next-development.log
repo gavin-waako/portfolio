@@ -1,20 +1,72 @@
-[00:00:01.987] Server  LOG     ✓ Ready in 1436ms
-[00:00:05.860] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:02.143] Server  LOG     ✓ Ready in 1521ms
+[00:00:03.053] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:08.289] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:05.621] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:08.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:08.871] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:05.668] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.069] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:06.073] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:06.325] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
+[00:00:06.346] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1-dark.png" "received" null
+[00:00:06.839] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:09.205] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:09.215] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:09.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:29.355] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:30.043] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:30.044] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:00:30.081] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:30.636] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:08.871] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:30.636] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -27,378 +79,325 @@ It can also happen if the client has a browser extension installed which messes 
 %s%s https://react.dev/link/hydration-mismatch 
 
   ...
-    <SegmentViewNode type="page" pagePath="page.js">
-      <SegmentTrieNode>
-      <Home>
-        <PageWrapper isIndexPage={true}>
-          <div>
-            <Preloader>
-            <BackToTop>
-            <HeaderContextProvider>
-            <PortfolioRenderContextProvider>
-              <IndexMain>
-                <main>
-                  <Hero>
-                  <Services1>
-                  <Portfolio1>
-                  <Resume1>
-                  <Skills1>
-                  <Testimonials1>
-                  <Blogs1>
-                  <Contact1>
-                    <section id="contact">
-                      <div className="bg-cream-l...">
-                        <div className="container">
-                          <div className="flex flex-...">
-                            <div className="md:col-sta...">
-                              <div className={" wow fad..."} data-wow-delay=".3s">
-                                <form
-                                  className="contact px-15px py-30px md:px-5 lg:px-30px lg:py-10 xl:px-10 bg-white-col..."
+    <div>
+      <Preloader>
+      <BackToTop>
+      <HeaderContextProvider>
+      <PortfolioRenderContextProvider>
+        <IndexMain>
+          <main>
+            <Hero>
+            <Services1>
+            <Portfolio1>
+            <Resume1>
+            <Skills1>
+            <Testimonials1>
+            <Blogs1>
+            <Contact1>
+              <section id="contact">
+                <div className="bg-cream-l...">
+                  <div className="container">
+                    <div className="flex flex-...">
+                      <div className="md:col-sta...">
+                        <div className={" wow fad..."} data-wow-delay=".3s">
+                          <form className="contact px...">
+                            <div>
+                            <div className="grid grid-..." data-wow-delay=".5s">
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="First name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
 -                                 data-np-intersection-state="observed"
                                 >
-                                  <div>
-                                  <div className="grid grid-..." data-wow-delay=".5s">
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="First name"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="Last name"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="email"
-                                        placeholder="Email address"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="Phone number"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div className="form_group...">
-                                      <FormSelect>
-                                        <select
-                                          name="conService"
-                                          id="conService"
-                                          className="tj-nice-select"
--                                         data-np-intersection-state="observed"
-                                        >
-                                    <div className="sm:col-sta...">
-                                      <textarea
-                                        cols="1"
-                                        rows="10"
-                                        placeholder="Message"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    ...
-                            ...
-            ...
-    ...
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Last name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="email"
+                                  placeholder="Email address"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Phone number"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div className="form_group...">
+                                <FormSelect>
+                                  <select
+                                    name="conService"
+                                    id="conService"
+                                    className="tj-nice-select"
+-                                   data-np-intersection-state="observed"
+                                  >
+                              <div className="sm:col-sta...">
+                                <textarea
+                                  cols="1"
+                                  rows="10"
+                                  placeholder="Message"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              ...
+                      ...
+      ...
 
-[00:00:17.898] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:34.092] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:18.414] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
-[00:01:32.744] Server  LOG     ✓ Compiled in 155ms
-[00:01:33.472] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected value at line 6 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected value at line 6 column 3
-    at [1]
-       2 |   {
-       3 |     "name": "PyTorch",
-       4 |     "img": "/img/icons/pytorch.png"
-       5 |   },
-         |   v
-       6 +   ,
-         |   ^
-       7 |   {
-       8 |     "name": "NextJS",
-       9 |     "img": "/img/icons/nextjs.png"
-      10 |   },
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:33.473] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected value at line 6 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected value at line 6 column 3
-    at [1]
-       2 |   {
-       3 |     "name": "PyTorch",
-       4 |     "img": "/img/icons/pytorch.png"
-       5 |   },
-         |   v
-       6 +   ,
-         |   ^
-       7 |   {
-       8 |     "name": "NextJS",
-       9 |     "img": "/img/icons/nextjs.png"
-      10 |   },
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:36.831] Server  LOG     ✓ Compiled in 105ms
-[00:01:49.635] Server  LOG     ✓ Compiled in 104ms
-[00:01:50.479] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-    at .
-      10 |   {
-      11 |     "name": "NextJS",
-      12 |     "img": "/img/icons/nextjs.png"
-      13 |   }
-         |   v
-      14 +   {
-         |   ^
-      15 |     "name": "NextJS",
-      16 |     "img": "/img/icons/nextjs.png"
-      17 |   },
-      18 |   {
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:51.533] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-    at .
-      10 |   {
-      11 |     "name": "NextJS",
-      12 |     "img": "/img/icons/nextjs.png"
-      13 |   }
-         |   v
-      14 +   {
-         |   ^
-      15 |     "name": "NextJS",
-      16 |     "img": "/img/icons/nextjs.png"
-      17 |   },
-      18 |   {
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:53.328] Server  LOG     ✓ Compiled in 92ms
-[00:01:53.472] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 14 column 3
-    at .
-      10 |   {
-      11 |     "name": "NextJS",
-      12 |     "img": "/img/icons/nextjs.png"
-      13 |   }
-         |   v
-      14 +   {
-         |   ^
-      15 |     "name": "NextJS",
-      16 |     "img": "/img/icons/nextjs.png"
-      17 |   }
-      18 |   {
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:56.972] Server  LOG     ✓ Compiled in 79ms
-[00:01:57.465] Browser ERROR   ./public/fakedata/frameworks-libraries.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 18 column 3
-
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/frameworks-libraries.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected `,` or `]` at line 18 column 3
-    at .
-      14 |   {
-      15 |     "name": "NextJS",
-      16 |     "img": "/img/icons/nextjs.png"
-      17 |   }
-         |   v
-      18 +   {
-         |   ^
-      19 |     "name": "NextJS",
-      20 |     "img": "/img/icons/nextjs.png"
-      21 |   },
-      22 |   {
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/frameworks-libraries.json
-    ./src/libs/getFrameworksLibraries.js [Client Component SSR]
-    ./src/components/sections/skills/Skills1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:01:59.778] Server  LOG     ✓ Compiled in 76ms
-[00:02:07.807] Server  LOG     ✓ Compiled in 88ms
-[00:02:10.155] Server  LOG     ✓ Compiled in 72ms
-[00:02:10.192] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:35.231] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:02:10.299] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/pandas.png" "received" null
-[00:02:44.297] Server  LOG     ✓ Compiled in 30ms
-[00:02:46.135] Server  LOG     ✓ Compiled in 73ms
-[00:02:46.164] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:35.232] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:02:46.253] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/numpy.png" "received" null
-[00:03:03.661] Server  LOG     ✓ Compiled in 71ms
-[00:03:05.356] Server  LOG     ✓ Compiled in 60ms
-[00:03:05.377] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:35.282] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:14.339] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:03:05.456] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/matplotlib.png" "received" null
-[00:26:20.763] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:14.979] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:26:22.787] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:14.982] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:26:23.050] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:15.009] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:15.501] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:21.370] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:26:23.076] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:22.303] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:26:23.078] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:26:23.086] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/pandas.png" "received" null
-[00:26:23.463] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:22.304] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:26:23.666] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
-[00:31:16.151] Server  LOG     ✓ Compiled in 46ms
-[00:31:36.437] Server  LOG     ✓ Compiled in 94ms
-[00:31:38.527] Server  LOG     ✓ Compiled in 260ms
-[00:31:39.939] Server  LOG     ✓ Compiled in 100ms
-[00:36:20.316] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:22.327] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:22.934] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <div>
+      <Preloader>
+      <BackToTop>
+      <HeaderContextProvider>
+      <PortfolioRenderContextProvider>
+        <IndexMain>
+          <main>
+            <Hero>
+            <Services1>
+            <Portfolio1>
+            <Resume1>
+            <Skills1>
+            <Testimonials1>
+            <Blogs1>
+            <Contact1>
+              <section id="contact">
+                <div className="bg-cream-l...">
+                  <div className="container">
+                    <div className="flex flex-...">
+                      <div className="md:col-sta...">
+                        <div className={" wow fad..."} data-wow-delay=".3s">
+                          <form className="contact px...">
+                            <div>
+                            <div className="grid grid-..." data-wow-delay=".5s">
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="First name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Last name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="email"
+                                  placeholder="Email address"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Phone number"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div className="form_group...">
+                                <FormSelect>
+                                  <select
+                                    name="conService"
+                                    id="conService"
+                                    className="tj-nice-select"
+-                                   data-np-intersection-state="observed"
+                                  >
+                              <div className="sm:col-sta...">
+                                <textarea
+                                  cols="1"
+                                  rows="10"
+                                  placeholder="Message"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              ...
+                      ...
+      ...
+
+[00:01:24.760] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:36:22.232] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:25.428] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:36:22.434] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:01:25.429] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:36:22.450] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+[00:01:25.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:25.812] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:25.965] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
 
-[00:36:22.453] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
-[00:36:22.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <div>
+      <Preloader>
+      <BackToTop>
+      <HeaderContextProvider>
+      <PortfolioRenderContextProvider>
+        <IndexMain>
+          <main>
+            <Hero>
+            <Services1>
+            <Portfolio1>
+            <Resume1>
+            <Skills1>
+            <Testimonials1>
+            <Blogs1>
+            <Contact1>
+              <section id="contact">
+                <div className="bg-cream-l...">
+                  <div className="container">
+                    <div className="flex flex-...">
+                      <div className="md:col-sta...">
+                        <div className={" wow fad..."} data-wow-delay=".3s">
+                          <form className="contact px...">
+                            <div>
+                            <div className="grid grid-..." data-wow-delay=".5s">
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="First name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Last name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="email"
+                                  placeholder="Email address"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Phone number"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              <div className="form_group...">
+                                <FormSelect>
+                                  <select
+                                    name="conService"
+                                    id="conService"
+                                    className="tj-nice-select"
+-                                   data-np-intersection-state="observed"
+                                  >
+                              <div className="sm:col-sta...">
+                                <textarea
+                                  cols="1"
+                                  rows="10"
+                                  placeholder="Message"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-intersection-state="observed"
+                                >
+                              ...
+                      ...
+      ...
+
