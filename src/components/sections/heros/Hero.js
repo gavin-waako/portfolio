@@ -33,19 +33,24 @@ const Hero = () => {
               />
             </div>
             <p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-              & sophomore Computer Science student at Massachusetts Bay
-              Community College. I'm passionate about the mathematical
-              principles behind intelligent systems, focusing on the
-              intersection of data science, machine learning and computational
-              theory.
+              & second-year Computer Science student at MassBay Community
+              College. I’m deeply interested in software engineering, machine
+              learning and data science. In ten years, I see myself working as
+              an AI Research Scientist, publishing research, and building
+              next-generation AI systems that push the boundaries of what's
+              possible.
+              {/* models that will be used by millions of people. I also see myself
+              becoming a founder, starting an AI/Software development company to
+              develop solutions for problems faced by people in less privileged
+              places, such as in Africa. */}
               <br />
               <br />
-              These days, I spend most of my time diving deep into the
-              architecture and implementation of modern ML technologies such as
-              Transformers, LSTMs, LLMs etc.
+              Recently, I've been diving deep into the architecture and
+              implementation of deep neural networks, Transformers, LLMs etc.
               <br />
               <br />
-              Beyond coding, I enjoy exploring the city and staying active.
+              When not coding, I love exploring the city of Boston and trying
+              out new food.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">

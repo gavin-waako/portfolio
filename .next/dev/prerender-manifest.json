@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "7072da7369f72bdd3b39ff994fdef4de",
-    "previewModeSigningKey": "5ea50eb675a8f1b6b021d69524063e7b3259b5aaca68469a495cc282972c1309",
-    "previewModeEncryptionKey": "bc00228bc2e8e6c4a77f7221e0a40f6214f840e0408838022e345bee2e5877f5"
-  }
-}
+{"version":4,"routes":{"/portfolio/1":{},"/portfolio/2":{},"/portfolio/3":{},"/portfolio/4":{}},"dynamicRoutes":{"/portfolio/[id]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/portfolio/[id]","routeRegex":"^\\/portfolio\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"af3c945548b881a9a85a54f1a06279f8","previewModeSigningKey":"5a3b965aaa2725425da8ae4279166081a368388e9d5ae5d3e897e59310e2ced0","previewModeEncryptionKey":"db835a2d165dd644276cae7e0562cb3f08236bbd3a3fbc96f45ca45ba193a211"}}
