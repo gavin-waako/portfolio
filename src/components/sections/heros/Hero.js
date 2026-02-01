@@ -38,19 +38,15 @@ const Hero = () => {
               learning and data science. In ten years, I see myself working as
               an AI Research Scientist, publishing research, and building
               next-generation AI systems that push the boundaries of what's
-              possible.
-              {/* models that will be used by millions of people. I also see myself
-              becoming a founder, starting an AI/Software development company to
-              develop solutions for problems faced by people in less privileged
-              places, such as in Africa. */}
+              machinely possible.
               <br />
               <br />
               Recently, I've been diving deep into the architecture and
               implementation of deep neural networks, Transformers, LLMs etc.
               <br />
               <br />
-              When not coding, I love exploring the city of Boston and trying
-              out new food.
+              When not coding, I love exploring the city of Boston, travelling,
+              and trying out new food.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">

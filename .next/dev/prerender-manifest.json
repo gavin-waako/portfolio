@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/portfolio/1":{},"/portfolio/2":{},"/portfolio/3":{},"/portfolio/4":{}},"dynamicRoutes":{"/portfolio/[id]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/portfolio/[id]","routeRegex":"^\\/portfolio\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"af3c945548b881a9a85a54f1a06279f8","previewModeSigningKey":"5a3b965aaa2725425da8ae4279166081a368388e9d5ae5d3e897e59310e2ced0","previewModeEncryptionKey":"db835a2d165dd644276cae7e0562cb3f08236bbd3a3fbc96f45ca45ba193a211"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "227b4fde589cbecb4d987e81ecd06f36",
+    "previewModeSigningKey": "151b9d8bf43297d7cf68415bd0830d04a1e85b620f0f5dc1f7aa05a302670076",
+    "previewModeEncryptionKey": "c72a79391c5cf8e6e76380dd0c989c59814670ccd718a63635da4d243e8dabbf"
+  }
+}
