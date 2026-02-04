@@ -1,43 +1,23 @@
 [
   {
-    "title": "Professional Work Experience",
+    "title": "Work Experience",
     "iconName": "flaticon-recommendation",
     "resumeItems": [
       {
         "date": "August 2021 - December 2024",
-        "title": "Founder & Full-stack Web/Mobile Software Developer",
+        "title": "Founder & Full-stack Web/Mobile Developer",
         "desc": "Beluga Tech Ltd., Kampala, UG"
-      },
-      {
-        "date": "January 2019 - December 2020",
-        "title": "Social Media Manager",
-        "desc": "UKWAZI Makadamia & African Christian College, Eswatini"
       }
     ]
   },
   {
-    "title": "Education & Certifications",
+    "title": "Education",
     "iconName": "flaticon-graduation-cap",
     "resumeItems": [
       {
         "date": "January 2025 - Present",
         "title": "A.S. in Computer Science",
         "desc": "MassBay Community College, Boston"
-      },
-      {
-        "date": "2022",
-        "title": "100 Days of Code: The Complete Python Pro Bootcamp",
-        "desc": "Dr. Angela Yu, Developer and Lead Instructor"
-      },
-      {
-        "date": "2021",
-        "title": "The Complete 2024 Web Development Bootcamp",
-        "desc": "Dr. Angela Yu, Developer and Lead Instructor"
-      },
-      {
-        "date": "2018 - 2020",
-        "title": "Bachelor of Theology (Major in Counselling)",
-        "desc": "African Christian College, Eswatini"
       }
     ]
   }

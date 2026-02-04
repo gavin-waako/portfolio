@@ -46,7 +46,8 @@ const Hero = () => {
               <br />
               <br />
               When not coding, I love exploring the city of Boston, travelling,
-              and trying out new food.
+              and trying out new food. I also have a medium blog where I
+              document my learning journey. Be sure to check it out.
             </p>
             {/* <!-- action and social --> */}
             <div className="flex items-center gap-30px lg:gap-25px mt-5 flex-wrap lg:flex-nowrap md:mt-30px lg:mt-50px">
