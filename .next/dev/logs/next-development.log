@@ -38,3 +38,16 @@ Exports made by CommonJs syntax will lead to a runtime error, since the module i
 [00:26:10.818] Server  LOG     ✓ Compiled in 285ms
 [00:26:11.518] Server  LOG     ✓ Compiled in 302ms
 [00:28:06.370] Server  LOG     ✓ Compiled in 261ms
+[00:29:25.711] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:29:28.083] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:29:28.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
