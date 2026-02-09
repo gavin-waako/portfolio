@@ -1,65 +1,40 @@
-[00:00:07.359] Server  LOG     ✓ Ready in 5.8s
-[00:00:10.469] Server  LOG     ○ Compiling / ...
-[00:00:11.317] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:23.353] Server  LOG     ✓ Ready in 17.3s
+[00:00:28.517] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:14.285] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:35.054] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:14.319] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:15.761] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
-[00:00:15.932] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
-[00:00:59.667] Server  LOG     ✓ Compiled in 230ms
-[00:01:57.617] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:35.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:36.400] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:41.281] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:00:41.482] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:00:55.130] Server  LOG     ✓ Compiled in 2.2s
+[00:01:20.303] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:01:59.955] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
-[00:13:25.915] Server  LOG     ✓ Compiled in 83ms
-[00:13:43.946] Server  LOG     ✓ Compiled in 163ms
-[00:14:01.540] Server  LOG     ✓ Compiled in 115ms
-[00:16:17.928] Server  LOG     ✓ Compiled in 46ms
-[00:16:50.507] Server  LOG     ✓ Compiled in 146ms
-[00:16:51.663] Browser ERROR   ./public/fakedata/resume.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/public/fakedata/resume.json (json)
+[00:01:21.755] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
-Caused by:
-- Unable to make a module from invalid JSON: expected `,` or `}` at line 21 column 7
 
-Debug info:
-- An error occurred while generating the chunk item [project]/public/fakedata/resume.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected `,` or `}` at line 21 column 7
-    at [1].resumeItems[0].?
-      17 |       {
-      18 |         "date": "January 2025 - Present",
-      19 |         "title": "A.S. in Computer Science",
-      20 |         "desc": "MassBay Community College, Boston"
-         |       v
-      21 +       // },
-         |       ^
-      22 |       // {
-      23 |       //   "date": "2022",
-      24 |       //   "title": "100 Days of Code: The Complete Python Pro Bootcamp",
-      25 |       //   "desc": "Dr. Angela Yu, Developer and Lead Instructor"
-
-Import trace:
-  Client Component SSR:
-    ./public/fakedata/resume.json
-    ./src/libs/getResume.js [Client Component SSR]
-    ./src/components/sections/resume/Resume1.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Client Component SSR]
-    ./src/components/layout/main/IndexMain.js [Server Component]
-    ./src/app/page.js [Server Component]
-[00:16:52.622] Server  LOG     ✓ Compiled in 113ms
-[00:17:01.912] Server  LOG     ✓ Compiled in 90ms
-[00:19:47.776] Server  LOG     ✓ Compiled in 65ms
+[00:01:21.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:52.194] Server  LOG     ✓ Compiled in 269ms
+[00:11:00.787] Server  LOG     ✓ Compiled in 377ms
+[00:11:01.942] Server  LOG     ✓ Compiled in 273ms
+[00:21:10.292] Server  LOG     ✓ Compiled in 108ms
+[00:21:11.998] Server  LOG     ✓ Compiled in 100ms
+[00:26:10.818] Server  LOG     ✓ Compiled in 285ms
+[00:26:11.518] Server  LOG     ✓ Compiled in 302ms
+[00:28:06.370] Server  LOG     ✓ Compiled in 261ms

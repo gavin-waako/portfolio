@@ -36,7 +36,7 @@ const Hero = () => {
               & second-year Computer Science student at MassBay Community
               College. I’m deeply interested in software engineering, machine
               learning and data science. In ten years, I see myself working as
-              an AI Research Scientist, publishing research, and building
+              an ML Research Scientist, publishing research, and building
               next-generation AI systems that push the boundaries of what's
               machinely possible.
               <br />

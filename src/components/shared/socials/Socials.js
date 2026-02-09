@@ -4,21 +4,37 @@ import React from "react";
 
 const Socials = () => {
   const socials = getSocials();
+
+  // URL to the official Hugging Face logo
+  const hfIcon = "https://huggingface.co/front/assets/huggingface_logo.svg";
+
   return (
     <div>
       <ul className="flex gap-x-5">
         {socials?.length
-          ? socials?.map(({ iconName, path }, idx) => (
-              <li key={idx}>
-                <Link
-                  href={path}
-                  target="_blank"
-                  className="text-primary-color hover:text-body-color border border-primary-color w-35px h-35px rounded-full flex items-center justify-center overflow-hidden relative z-0 after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-full after:h-full after:scale-0 after:bg-primary-color hover:after:scale-105 after:transition-all after:duration-300 after:z-[-1] after:rounded-full"
-                >
-                  <i className={iconName}></i>
-                </Link>
-              </li>
-            ))
+          ? socials?.map(({ iconName, path }, idx) => {
+              const isHF = iconName.includes("hugging-face");
+
+              return (
+                <li key={idx}>
+                  <Link
+                    href={path}
+                    target="_blank"
+                    className="text-primary-color hover:text-body-color border border-primary-color w-[35px] h-[35px] rounded-full flex items-center justify-center overflow-hidden relative z-0 after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-full after:h-full after:scale-0 after:bg-primary-color hover:after:scale-105 after:transition-all after:duration-300 after:z-[-1] after:rounded-full"
+                  >
+                    {isHF ? (
+                      <img
+                        src={hfIcon}
+                        alt="Hugging Face"
+                        className="w-[18px] h-[18px] z-10"
+                      />
+                    ) : (
+                      <i className={iconName}></i>
+                    )}
+                  </Link>
+                </li>
+              );
+            })
           : ""}
       </ul>
     </div>
