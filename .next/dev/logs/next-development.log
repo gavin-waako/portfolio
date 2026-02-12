@@ -1,53 +1,27 @@
-[00:00:23.353] Server  LOG     ✓ Ready in 17.3s
-[00:00:28.517] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:06.499] Server  LOG     ✓ Ready in 4.8s
+[00:00:09.541] Server  LOG     ○ Compiling / ...
+[00:00:10.191] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:35.054] Server  WARN    ⚠ ./tailwind.config.mjs
+[00:00:13.264] Server  WARN    ⚠ ./tailwind.config.mjs
 Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
 The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
 Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
 
 
-[00:00:35.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:36.400] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:13.476] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.864] Browser WARN    Image with src "/img/hero/me.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:41.281] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
-[00:00:41.482] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
-[00:00:55.130] Server  LOG     ✓ Compiled in 2.2s
-[00:01:20.303] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:01:21.755] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:01:21.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:52.194] Server  LOG     ✓ Compiled in 269ms
-[00:11:00.787] Server  LOG     ✓ Compiled in 377ms
-[00:11:01.942] Server  LOG     ✓ Compiled in 273ms
-[00:21:10.292] Server  LOG     ✓ Compiled in 108ms
-[00:21:11.998] Server  LOG     ✓ Compiled in 100ms
-[00:26:10.818] Server  LOG     ✓ Compiled in 285ms
-[00:26:11.518] Server  LOG     ✓ Compiled in 302ms
-[00:28:06.370] Server  LOG     ✓ Compiled in 261ms
-[00:29:25.711] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:29:28.083] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:29:28.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.981] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:00:15.164] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+[00:01:01.161] Server  LOG     ✓ Compiled in 274ms
+[00:01:24.424] Server  LOG     ✓ Compiled in 276ms
+[00:01:38.225] Server  LOG     ✓ Compiled in 299ms
+[00:02:12.591] Server  LOG     ✓ Compiled in 223ms
+[00:02:14.789] Server  LOG     ✓ Compiled in 213ms
+[00:02:16.888] Server  LOG     ✓ Compiled in 311ms
+[00:02:22.083] Server  LOG     ✓ Compiled in 223ms
+[00:03:13.585] Server  LOG     ✓ Compiled in 207ms

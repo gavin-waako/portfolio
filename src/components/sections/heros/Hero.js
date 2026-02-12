@@ -21,7 +21,7 @@ const Hero = () => {
               Hey, I&apos;m Gavin Waako,
             </h4>
             <h1 className="text-size-35 md:text-size-38 lg:text-size-50 xl:text-6xl 2xl:text-size-65 bg-gradient-text-light dark:bg-gradient-text bg-clip-text xl:leading-1.2 text-transparent mb-15px">
-              A Software Engineer
+              A Computer Science
             </h1>
             <div className="flex md:hidden justify-center items-center my-30px">
               <Image
@@ -33,12 +33,12 @@ const Hero = () => {
               />
             </div>
             <p className="text-xl leading-1.5 text-primary-color-light dark:text-body-color max-w-540px">
-              & second-year Computer Science student at MassBay Community
-              College. I’m deeply interested in software engineering, machine
-              learning and data science. In ten years, I see myself working as
-              an ML Research Scientist, publishing research, and building
-              next-generation AI systems that push the boundaries of what's
-              machinely possible.
+              student at MassBay Community College. I’m deeply interested in
+              software engineering, machine learning and data science. In the
+              near future, I see myself working as an ML Research Scientist,
+              publishing research, and building next-generation AI software
+              systems that push the boundaries of what's technologically
+              possible.
               <br />
               <br />
               Recently, I've been diving deep into the architecture and
