@@ -24,6 +24,10 @@
     "img": "/img/icons/react.png"
   },
   {
+    "name": "Redux Toolkit",
+    "img": "/img/icons/redux-toolkit.png"
+  },
+  {
     "name": "Node JS / Express",
     "img": "/img/icons/node-express.png"
   }

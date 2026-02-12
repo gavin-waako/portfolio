@@ -25,3 +25,141 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:02:16.888] Server  LOG     ✓ Compiled in 311ms
 [00:02:22.083] Server  LOG     ✓ Compiled in 223ms
 [00:03:13.585] Server  LOG     ✓ Compiled in 207ms
+[00:13:09.255] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:13:09.983] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
+[00:15:55.243] Server  LOG     ✓ Compiled in 97ms
+[00:15:59.854] Server  LOG     ✓ Compiled in 118ms
+[00:16:02.868] Server  LOG     ✓ Compiled in 96ms
+[00:16:05.274] Server  LOG     ✓ Compiled in 106ms
+[00:16:05.313] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:16:05.432] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/redux.png" "received" null
+[00:17:02.910] Server  LOG     ✓ Compiled in 68ms
+[00:18:04.056] Server  LOG     ✓ Compiled in 73ms
+[00:18:04.092] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:18:04.181] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/icons/redux-toolkit.png" "received" null
+[00:22:26.500] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:22:28.023] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:22:28.024] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:22:28.416] Server  WARN    ⚠ ./tailwind.config.mjs
+Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
+The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
+Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
+
+
+[00:22:28.682] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:28.730] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/img/testimonials/logo/1.png" "received" null
+[00:22:30.348] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <div>
+      <Preloader>
+      <BackToTop>
+      <HeaderContextProvider>
+      <PortfolioRenderContextProvider>
+        <IndexMain>
+          <main>
+            <Hero>
+            <Services1>
+            <Portfolio1>
+            <Resume1>
+            <Skills1>
+            <Testimonials1>
+            <Blogs1>
+            <Contact1>
+              <section id="contact">
+                <div className="bg-cream-l...">
+                  <div className="container">
+                    <div className="flex flex-...">
+                      <div className="md:col-sta...">
+                        <div className={" wow fad..."} data-wow-delay=".3s">
+                          <form className="contact px...">
+                            <div>
+                            <div className="grid grid-..." data-wow-delay=".5s">
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="First name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-mark="1"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Last name"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-mark="1"
+                                >
+                              <div>
+                                <input
+                                  type="email"
+                                  placeholder="Email address"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-mark="1"
+                                >
+                              <div>
+                                <input
+                                  type="text"
+                                  placeholder="Phone number"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-mark="1"
+                                >
+                              <div className="form_group...">
+                                <FormSelect>
+                                  <select
+                                    name="conService"
+                                    id="conService"
+                                    className="tj-nice-select"
+-                                   data-np-mark="1"
+                                  >
+                              <div className="sm:col-sta...">
+                                <textarea
+                                  cols="1"
+                                  rows="10"
+                                  placeholder="Message"
+                                  className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-cream-..."
+-                                 data-np-mark="1"
+                                >
+                              ...
+                      ...
+      ...
+
