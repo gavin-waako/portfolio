@@ -1,6 +1,10 @@
 [
   {
     "name": "AWS Certified Cloud Practitioner",
-    "img": "/img/icons/aws.png"
+    "img": "/img/icons/aws-cloud-cert.png"
+  },
+  {
+    "name": "AWS Certified AI Practitioner",
+    "img": "/img/icons/aws-ai-cert.png"
   }
 ]

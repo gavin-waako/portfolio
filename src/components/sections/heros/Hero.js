@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="hidded md:grid md:grid-cols-2 md:items-center gap-30px">
           <div>
             <h4 className="text-seondary-color dark:text-body-color text-size-22 md:text-size-25 lg:text-4xl lg:leading-1.5 font-bold mb-1.5 xl:mb-10px">
-              Hey, I&apos;m Gavin Waako,
+              Hey, I&apos;m Gavin,
             </h4>
             <h1 className="text-size-35 md:text-size-38 lg:text-size-50 xl:text-6xl 2xl:text-size-65 bg-gradient-text-light dark:bg-gradient-text bg-clip-text xl:leading-1.2 text-transparent mb-15px">
               A Computer Science

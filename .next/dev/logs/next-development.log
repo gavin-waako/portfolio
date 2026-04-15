@@ -1,109 +1,18 @@
-[00:00:03.345] Server  LOG     ✓ Ready in 2.5s
-[00:00:06.051] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:00:08.434] Server  WARN    ⚠ ./tailwind.config.mjs
-Specified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)
-The EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.
-Exports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the "type" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.
-
-
-[00:00:08.528] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:08.991] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <SegmentViewNode type="page" pagePath="page.js">
-      <SegmentTrieNode>
-      <Home>
-        <PageWrapper isIndexPage={true}>
-          <div>
-            <Preloader>
-            <BackToTop>
-            <HeaderContextProvider>
-            <PortfolioRenderContextProvider>
-              <IndexMain>
-                <main>
-                  <Hero>
-                  <Services1>
-                  <Portfolio1>
-                  <Resume1>
-                  <Skills1>
-                  <Testimonials1>
-                  <Blogs1>
-                  <Contact1>
-                    <section id="contact">
-                      <div className="bg-cream-l...">
-                        <div className="container">
-                          <div className="flex flex-...">
-                            <div className="md:col-sta...">
-                              <div className={" wow fad..."} data-wow-delay=".3s">
-                                <form
-                                  className="contact px-15px py-30px md:px-5 lg:px-30px lg:py-10 xl:px-10 bg-white-col..."
--                                 data-np-intersection-state="observed"
-                                >
-                                  <div>
-                                  <div className="grid grid-..." data-wow-delay=".5s">
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="First name"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="Last name"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="email"
-                                        placeholder="Email address"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div>
-                                      <input
-                                        type="text"
-                                        placeholder="Phone number"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    <div className="form_group...">
-                                      <FormSelect>
-                                        <select
-                                          name="conService"
-                                          id="conService"
-                                          className="tj-nice-select"
--                                         data-np-intersection-state="observed"
-                                        >
-                                    <div className="sm:col-sta...">
-                                      <textarea
-                                        cols="1"
-                                        rows="10"
-                                        placeholder="Message"
-                                        className="text-white-color w-full px-5 py-14px border border-gray-color-3 bg-..."
--                                       data-np-intersection-state="observed"
-                                      >
-                                    ...
-                            ...
-            ...
-    ...
-
-[00:00:09.657] Server  WARN    ⚠ The requested resource "/img/portfolio/2.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
-[00:00:09.860] Server  WARN    ⚠ The requested resource "/img/portfolio/1.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.
+{"timestamp":"00:00:02.975","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.099","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:04.713","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:04.787","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:05.351","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:05.357","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:05.362","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:05.372","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"00:00:05.968","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/img/icons/swift.png\" \"received\" null"}
+{"timestamp":"00:00:06.013","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/img/icons/dkubernetes.png\" \"received\" null"}
+{"timestamp":"00:00:06.015","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/img/icons/kafka.png\" \"received\" null"}
+{"timestamp":"00:00:06.024","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/img/icons/rabbitmq.png\" \"received\" null"}
+{"timestamp":"00:00:06.093","source":"Server","level":"WARN","message":"⚠ The requested resource \"/img/portfolio/2.gif\" is an animated image so it will not be optimized. Consider adding the \"unoptimized\" property to the <Image>."}
+{"timestamp":"00:00:06.187","source":"Server","level":"WARN","message":"⚠ The requested resource \"/img/portfolio/1.gif\" is an animated image so it will not be optimized. Consider adding the \"unoptimized\" property to the <Image>."}
+{"timestamp":"01:02:57.758","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"01:02:57.761","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"05:29:49.018","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}
+{"timestamp":"05:29:49.020","source":"Server","level":"WARN","message":"⚠ ./tailwind.config.mjs\nSpecified module format (EcmaScript Modules) is not matching the module format of the source code (CommonJs)\nThe EcmaScript module format was specified in the package.json that is affecting this source file or by using an special extension, but it looks like that CommonJs syntax is used in the source code.\nExports made by CommonJs syntax will lead to a runtime error, since the module is in EcmaScript mode. Either change the \"type\" field in the package.json or replace CommonJs syntax with EcmaScript import/export syntax in the source file.\n\n"}

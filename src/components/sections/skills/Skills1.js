@@ -141,7 +141,7 @@ const Skills1 = ({ type, subTitle, isNotDesc }) => {
             }`}
           >
             <HeadingSecondary className={"mb-0 py-10"}>
-              Dev Tools
+              Middleware / Dev Tools
             </HeadingSecondary>
             {subTitle ? (
               <p

@@ -1,5 +1,9 @@
 [
   {
+    "name": "Spring Boot",
+    "img": "/img/icons/spring-boot.png"
+  },
+  {
     "name": "PyTorch",
     "img": "/img/icons/pytorch.png"
   },
@@ -18,6 +22,10 @@
   {
     "name": "NextJS",
     "img": "/img/icons/nextjs.png"
+  },
+  {
+    "name": "Swift",
+    "img": "/img/icons/swift.png"
   },
   {
     "name": "React/React Native",
